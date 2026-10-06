@@ -1,1 +1,14 @@
-
+{
+  "novelas": [
+    {
+      "id": 1,
+      "nombre": "Overlord",
+      "imagen": "https://picsum.photos/id/10/800/600"
+    },
+    {
+      "id": 2,
+      "nombre": "Re:Zero",
+      "imagen": "https://picsum.photos/id/20/800/600"
+    }
+  ]
+}
