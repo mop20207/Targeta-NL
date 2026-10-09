@@ -1,12 +1,12 @@
 {
   "novelas": [
     {
-      "id": 1,
+      
       "nombre": "Overlord",
       "imagen": "https://static.wikia.nocookie.net/overlord/images/9/95/Overlord_volumen_1.png/revision/latest?cb=20220818101602&path-prefix=es"
     },
     {
-      "id": 2,
+      
       "nombre": "Re:Zero",
       "imagen": "https://image.cdn1.buscalibre.com/5b5782421dc86114688b4567.RS500x500.jpg"
     }
