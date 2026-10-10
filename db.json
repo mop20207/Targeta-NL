@@ -1,14 +1,148 @@
 {
   "novelas": [
     {
-      
       "nombre": "Overlord",
-      "imagen": "https://static.wikia.nocookie.net/overlord/images/9/95/Overlord_volumen_1.png/revision/latest?cb=20220818101602&path-prefix=es"
+      "imagen": "https://static.wikia.nocookie.net/overlord/images/9/95/Overlord_volumen_1.png/revision/latest?cb=20220818101602&path-prefix=es",
+      "lore": "Momonga es el líder de Ainz Ooal Gown, un poderoso gremio de jugadores dentro del videojuego Yggdrasil. Cuando llega el momento de cerrar los servidores, decide quedarse conectado hasta el último instante. Sin embargo, algo inesperado sucede: el juego se convierte en realidad y los personajes no jugadores comienzan a actuar por voluntad propia. Ahora, atrapado en un mundo desconocido con la apariencia de un poderoso hechicero no muerto, Momonga adopta el nombre de Ainz Ooal Gown y comienza a explorar este nuevo mundo, decidido a descubrir qué ocurrió y hasta dónde llega su poder.",
+"valoracion":9.0,
+"genero":[
+    "Isekai",
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ]
     },
     {
-      
       "nombre": "Re:Zero",
-      "imagen": "https://image.cdn1.buscalibre.com/5b5782421dc86114688b4567.RS500x500.jpg"
-    }
+      "imagen": "https://image.cdn1.buscalibre.com/5b5782421dc86114688b4567.RS500x500.jpg",
+      "lore": "Subaru Natsuki es un joven que, tras salir de una tienda, aparece repentinamente en un mundo de fantasía. Sin conocer las reglas de ese lugar, termina involucrándose en una situación peligrosa y conoce a Emilia, una misteriosa chica de cabello plateado que lo ayuda. Cuando Subaru descubre que puede regresar en el tiempo después de morir, comprende que posee una habilidad extraordinaria, aunque su precio es terrible: debe experimentar la muerte para volver a intentarlo. Con cada regreso, deberá enfrentarse al dolor, descubrir secretos y encontrar la manera de proteger a las personas que le importan.",
+"valoracion":8.5,
+"genero":[
+    "Isekai",
+    "Fantasía",
+    "Acción",
+    "Aventura"
+  ]
+    },
+{
+    "nombre": "Mushoku Tensei",
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/0e/51/0e51a1439d7755a7de43d3d6393fb189.jpg",
+    "lore": "Un hombre que desperdició gran parte de su vida muere en un accidente y renace en un mundo de magia como Rudeus Greyrat. Conservando los recuerdos de su vida anterior, decide aprovechar esta segunda oportunidad para no repetir sus errores. Mientras aprende magia y conoce nuevos compañeros, deberá enfrentarse a peligros, pérdidas y decisiones que pondrán a prueba su deseo de cambiar.",
+    "valoracion": 8.8,
+    "genero": [
+      "Isekai",
+      "Fantasía",
+      "Aventura",
+      "Drama"
+    ]
+  },
+  {
+    "nombre": "That Time I Got Reincarnated as a Slime",
+    "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8c/That_Time_I_Got_Reincarnated_as_a_Slime_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "lore": "Satoru Mikami, un oficinista de 37 años, muere inesperadamente y renace en otro mundo convertido en un slime. Allí obtiene habilidades extraordinarias que le permiten absorber criaturas y adquirir sus poderes. Bajo el nombre de Rimuru Tempest, comienza a reunir monstruos y otras razas para construir una nación donde puedan convivir en paz, aunque sus ambiciones pronto lo enfrentan a poderosos enemigos.",
+    "valoracion": 8.5,
+    "genero": [
+      "Isekai",
+      "Fantasía",
+      "Aventura",
+      "Comedia"
+    ]
+  },
+  {
+    "nombre": "KonoSuba",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ydJpnNX5Axs_6jBjcidplPnqnNMum5PZI4ZHJO1UaDL-10Aj6exf9uI&s=10",
+    "lore": "Después de una muerte bastante absurda, Kazuma Satou se encuentra con la diosa Aqua, quien le ofrece la oportunidad de comenzar una nueva vida en un mundo de fantasía. Kazuma elige llevarse a Aqua con él, pero pronto descubre que su nueva aventura está lejos de ser una historia heroica. Junto con una maga obsesionada con una sola técnica y una caballera con gustos peculiares, formará un grupo tan problemático como divertido.",
+    "valoracion": 8.4,
+    "genero": [
+      "Isekai",
+      "Comedia",
+      "Fantasía",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "The Rising of the Shield Hero",
+    "imagen": "https://m.media-amazon.com/images/I/81dtd6Op+3L._AC_UF1000,1000_QL80_.jpg",
+    "lore": "Naofumi Iwatani es convocado a un reino desconocido junto con otros tres jóvenes para convertirse en uno de los Héroes Legendarios. Sin embargo, recibe el Escudo Legendario, un arma defensiva que parece poco útil para atacar, y pronto es traicionado y acusado injustamente. Despreciado por casi todos, deberá reconstruir su reputación, encontrar aliados y luchar contra unas catástrofes conocidas como las Olas, que amenazan con destruir su nuevo mundo.",
+    "valoracion": 8.1,
+    "genero": [
+      "Isekai",
+      "Acción",
+      "Fantasía",
+      "Drama"
+    ]
+  },
+  {
+    "nombre": "No Game No Life",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjAnMiRqNrC9ihrN-tPVHA0xC2S9woR8C17NnCE1AaUe7JSb_RV0VdNFZ&s=10",
+    "lore": "Sora y Shiro son dos hermanos prodigiosos que consideran el mundo real un juego aburrido. Tras recibir una invitación misteriosa, son transportados a Disboard, un mundo donde todos los conflictos se resuelven mediante juegos y las reglas prohíben la guerra convencional. Con su inteligencia y extraordinaria capacidad para trabajar en equipo, intentarán derrotar a las distintas razas y desafiar al mismísimo Dios de ese mundo.",
+    "valoracion": 8.3,
+    "genero": [
+      "Isekai",
+      "Fantasía",
+      "Estrategia",
+      "Comedia"
+    ]
+  },
+  {
+    "nombre": "The Eminence in Shadow",
+    "imagen": "https://static0.cbrimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/the-eminence-in-shadow-2022.jpg?q=50&fit=contain&w=480&dpr=1.5",
+    "lore": "Desde pequeño, Cid Kagenou sueña con convertirse en una figura misteriosa que controle los acontecimientos desde las sombras. Tras morir en su mundo original, renace en un universo de magia y comienza a construir una organización secreta para cumplir su fantasía. Lo que Cid cree que es una elaborada invención termina convirtiéndose en una conspiración real, mientras sus seguidores interpretan sus palabras como si fueran las de un auténtico genio estratégico.",
+    "valoracion": 8.4,
+    "genero": [
+      "Isekai",
+      "Acción",
+      "Fantasía",
+      "Comedia"
+    ]
+  },
+  {
+    "nombre": "So I'm a Spider, So What?",
+    "imagen": "https://m.media-amazon.com/images/I/91G8ro+OLRL._AC_UF1000,1000_QL80_.jpg",
+    "lore": "Una misteriosa catástrofe acaba con la vida de una clase entera y sus estudiantes renacen en un mundo fantástico. La protagonista tiene una suerte especialmente mala: aparece dentro de una mazmorra convertida en una pequeña araña monstruosa. Rodeada de criaturas peligrosas y sin aliados, deberá luchar para sobrevivir, subir de nivel y evolucionar mediante un sistema de habilidades. Cada victoria la acerca a descubrir el secreto que conecta su reencarnación con el destino del mundo.",
+    "valoracion": 8.0,
+    "genero": [
+      "Isekai",
+      "Reencarnación",
+      "Fantasía",
+      "Supervivencia"
+    ]
+  },
+  {
+    "nombre": "Arifureta: From Commonplace to World's Strongest",
+    "imagen": "https://m.media-amazon.com/images/I/81MSDUItgHL._AC_UF1000,1000_QL80_.jpg",
+    "lore": "Hajime Nagumo es transportado a un mundo fantástico junto con sus compañeros de clase para luchar contra poderosos enemigos. Mientras los demás reciben habilidades impresionantes, él obtiene una capacidad de transmutación que parece poco útil para el combate. Traicionado y abandonado en el fondo de una peligrosa mazmorra, deberá superar criaturas mortales, conseguir nuevas habilidades y transformarse en alguien mucho más poderoso si quiere sobrevivir y regresar a casa.",
+    "valoracion": 7.8,
+    "genero": [
+      "Isekai",
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "Ascendance of a Bookworm",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOXF744jTT8a8uG2BhlSwtwBhzNZpftZIO7PHnhG31WFv7NhRB28DEtc&s=10",
+    "lore": "Una joven amante de los libros muere y renace como Myne, una niña débil de una familia humilde en un mundo donde los libros son un lujo reservado para unos pocos. Incapaz de aceptar que no puede leer cuanto desea, decide fabricar sus propios libros, aunque pronto descubre que conseguir materiales y desarrollar técnicas de impresión será una tarea difícil. Su pasión por la lectura la llevará a revolucionar poco a poco la sociedad que la rodea.",
+    "valoracion": 8.6,
+    "genero": [
+      "Isekai",
+      "Reencarnación",
+      "Fantasía",
+      "Vida cotidiana"
+    ]
+  },
+  {
+    "nombre": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMTgzM2NkYWMtN2RjYy00NjExLWE2MmYtNGI1ZTUzZjY4ZTIwXkEyXkFqcGc@._V1_.jpg",
+    "lore": "El asesino más extraordinario del mundo muere después de dedicar su vida al servicio de una organización. Una diosa le ofrece renacer en un mundo de fantasía con una misión: eliminar al héroe que, según una profecía, provocará la destrucción del mundo. Reencarnado como Lugh Tuatha Dé, heredero de una familia de asesinos, combina sus conocimientos modernos con magia y entrenamiento especializado para preparar una misión que podría cambiar el destino de todos.",
+    "valoracion": 8.0,
+    "genero": [
+      "Isekai",
+      "Acción",
+      "Fantasía",
+      "Intriga"
+    ]
+  }
   ]
 }
