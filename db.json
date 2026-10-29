@@ -1,349 +1,302 @@
+
 {
   "novelas": [
     {
+      "id": "overlord",
       "nombre": "Overlord",
       "imagen": "https://static.wikia.nocookie.net/overlord/images/9/95/Overlord_volumen_1.png/revision/latest?cb=20220818101602&path-prefix=es",
       "lore": "Momonga es el líder de Ainz Ooal Gown, un poderoso gremio de jugadores dentro del videojuego Yggdrasil. Cuando llega el momento de cerrar los servidores, decide quedarse conectado hasta el último instante. Sin embargo, algo inesperado sucede: el juego se convierte en realidad y los personajes no jugadores comienzan a actuar por voluntad propia. Ahora, atrapado en un mundo desconocido con la apariencia de un poderoso hechicero no muerto, Momonga adopta el nombre de Ainz Ooal Gown y comienza a explorar este nuevo mundo, decidido a descubrir qué ocurrió y hasta dónde llega su poder.",
-"valoracion":9.0,
-"genero":[
-    "Isekai",
-    "Fantasía",
-    "Acción",
-    "Aventura"
-  ]
+      "valoracion": 9.0,
+      "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
     },
     {
+      "id": "re-zero",
       "nombre": "Re:Zero",
       "imagen": "https://image.cdn1.buscalibre.com/5b5782421dc86114688b4567.RS500x500.jpg",
       "lore": "Subaru Natsuki es un joven que, tras salir de una tienda, aparece repentinamente en un mundo de fantasía. Sin conocer las reglas de ese lugar, termina involucrándose en una situación peligrosa y conoce a Emilia, una misteriosa chica de cabello plateado que lo ayuda. Cuando Subaru descubre que puede regresar en el tiempo después de morir, comprende que posee una habilidad extraordinaria, aunque su precio es terrible: debe experimentar la muerte para volver a intentarlo. Con cada regreso, deberá enfrentarse al dolor, descubrir secretos y encontrar la manera de proteger a las personas que le importan.",
-"valoracion":8.5,
-"genero":[
-    "Isekai",
-    "Fantasía",
-    "Acción",
-    "Aventura"
-  ]
+      "valoracion": 8.5,
+      "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
     },
-{
-    "nombre": "Mushoku Tensei",
-    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/0e/51/0e51a1439d7755a7de43d3d6393fb189.jpg",
-    "lore": "Un hombre que desperdició gran parte de su vida muere en un accidente y renace en un mundo de magia como Rudeus Greyrat. Conservando los recuerdos de su vida anterior, decide aprovechar esta segunda oportunidad para no repetir sus errores. Mientras aprende magia y conoce nuevos compañeros, deberá enfrentarse a peligros, pérdidas y decisiones que pondrán a prueba su deseo de cambiar.",
-    "valoracion": 8.8,
-    "genero": [
-      "Isekai",
-      "Fantasía",
-      "Aventura",
-      "Drama"
-    ]
-  },
-  {
-    "nombre": "That Time I Got Reincarnated as a Slime",
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8c/That_Time_I_Got_Reincarnated_as_a_Slime_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "lore": "Satoru Mikami, un oficinista de 37 años, muere inesperadamente y renace en otro mundo convertido en un slime. Allí obtiene habilidades extraordinarias que le permiten absorber criaturas y adquirir sus poderes. Bajo el nombre de Rimuru Tempest, comienza a reunir monstruos y otras razas para construir una nación donde puedan convivir en paz, aunque sus ambiciones pronto lo enfrentan a poderosos enemigos.",
-    "valoracion": 8.5,
-    "genero": [
-      "Isekai",
-      "Fantasía",
-      "Aventura",
-      "Comedia"
-    ]
-  },
-  {
-    "nombre": "KonoSuba",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ydJpnNX5Axs_6jBjcidplPnqnNMum5PZI4ZHJO1UaDL-10Aj6exf9uI&s=10",
-    "lore": "Después de una muerte bastante absurda, Kazuma Satou se encuentra con la diosa Aqua, quien le ofrece la oportunidad de comenzar una nueva vida en un mundo de fantasía. Kazuma elige llevarse a Aqua con él, pero pronto descubre que su nueva aventura está lejos de ser una historia heroica. Junto con una maga obsesionada con una sola técnica y una caballera con gustos peculiares, formará un grupo tan problemático como divertido.",
-    "valoracion": 8.4,
-    "genero": [
-      "Isekai",
-      "Comedia",
-      "Fantasía",
-      "Aventura"
-    ]
-  },
-  {
-    "nombre": "The Rising of the Shield Hero",
-    "imagen": "https://m.media-amazon.com/images/I/81dtd6Op+3L._AC_UF1000,1000_QL80_.jpg",
-    "lore": "Naofumi Iwatani es convocado a un reino desconocido junto con otros tres jóvenes para convertirse en uno de los Héroes Legendarios. Sin embargo, recibe el Escudo Legendario, un arma defensiva que parece poco útil para atacar, y pronto es traicionado y acusado injustamente. Despreciado por casi todos, deberá reconstruir su reputación, encontrar aliados y luchar contra unas catástrofes conocidas como las Olas, que amenazan con destruir su nuevo mundo.",
-    "valoracion": 8.1,
-    "genero": [
-      "Isekai",
-      "Acción",
-      "Fantasía",
-      "Drama"
-    ]
-  },
-  {
-    "nombre": "No Game No Life",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjAnMiRqNrC9ihrN-tPVHA0xC2S9woR8C17NnCE1AaUe7JSb_RV0VdNFZ&s=10",
-    "lore": "Sora y Shiro son dos hermanos prodigiosos que consideran el mundo real un juego aburrido. Tras recibir una invitación misteriosa, son transportados a Disboard, un mundo donde todos los conflictos se resuelven mediante juegos y las reglas prohíben la guerra convencional. Con su inteligencia y extraordinaria capacidad para trabajar en equipo, intentarán derrotar a las distintas razas y desafiar al mismísimo Dios de ese mundo.",
-    "valoracion": 8.3,
-    "genero": [
-      "Isekai",
-      "Fantasía",
-      "Estrategia",
-      "Comedia"
-    ]
-  },
-  {
-    "nombre": "The Eminence in Shadow",
-    "imagen": "https://static0.cbrimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/the-eminence-in-shadow-2022.jpg?q=50&fit=contain&w=480&dpr=1.5",
-    "lore": "Desde pequeño, Cid Kagenou sueña con convertirse en una figura misteriosa que controle los acontecimientos desde las sombras. Tras morir en su mundo original, renace en un universo de magia y comienza a construir una organización secreta para cumplir su fantasía. Lo que Cid cree que es una elaborada invención termina convirtiéndose en una conspiración real, mientras sus seguidores interpretan sus palabras como si fueran las de un auténtico genio estratégico.",
-    "valoracion": 8.4,
-    "genero": [
-      "Isekai",
-      "Acción",
-      "Fantasía",
-      "Comedia"
-    ]
-  },
-  {
-    "nombre": "So I'm a Spider, So What?",
-    "imagen": "https://m.media-amazon.com/images/I/91G8ro+OLRL._AC_UF1000,1000_QL80_.jpg",
-    "lore": "Una misteriosa catástrofe acaba con la vida de una clase entera y sus estudiantes renacen en un mundo fantástico. La protagonista tiene una suerte especialmente mala: aparece dentro de una mazmorra convertida en una pequeña araña monstruosa. Rodeada de criaturas peligrosas y sin aliados, deberá luchar para sobrevivir, subir de nivel y evolucionar mediante un sistema de habilidades. Cada victoria la acerca a descubrir el secreto que conecta su reencarnación con el destino del mundo.",
-    "valoracion": 8.0,
-    "genero": [
-      "Isekai",
-      "Reencarnación",
-      "Fantasía",
-      "Supervivencia"
-    ]
-  },
-  {
-    "nombre": "Arifureta: From Commonplace to World's Strongest",
-    "imagen": "https://m.media-amazon.com/images/I/81MSDUItgHL._AC_UF1000,1000_QL80_.jpg",
-    "lore": "Hajime Nagumo es transportado a un mundo fantástico junto con sus compañeros de clase para luchar contra poderosos enemigos. Mientras los demás reciben habilidades impresionantes, él obtiene una capacidad de transmutación que parece poco útil para el combate. Traicionado y abandonado en el fondo de una peligrosa mazmorra, deberá superar criaturas mortales, conseguir nuevas habilidades y transformarse en alguien mucho más poderoso si quiere sobrevivir y regresar a casa.",
-    "valoracion": 7.8,
-    "genero": [
-      "Isekai",
-      "Acción",
-      "Fantasía",
-      "Aventura"
-    ]
-  },
-  {
-    "nombre": "Ascendance of a Bookworm",
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOXF744jTT8a8uG2BhlSwtwBhzNZpftZIO7PHnhG31WFv7NhRB28DEtc&s=10",
-    "lore": "Una joven amante de los libros muere y renace como Myne, una niña débil de una familia humilde en un mundo donde los libros son un lujo reservado para unos pocos. Incapaz de aceptar que no puede leer cuanto desea, decide fabricar sus propios libros, aunque pronto descubre que conseguir materiales y desarrollar técnicas de impresión será una tarea difícil. Su pasión por la lectura la llevará a revolucionar poco a poco la sociedad que la rodea.",
-    "valoracion": 8.6,
-    "genero": [
-      "Isekai",
-      "Reencarnación",
-      "Fantasía",
-      "Vida cotidiana"
-    ]
-  },
-  {
-    "nombre": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
-    "imagen": "https://m.media-amazon.com/images/M/MV5BMTgzM2NkYWMtN2RjYy00NjExLWE2MmYtNGI1ZTUzZjY4ZTIwXkEyXkFqcGc@._V1_.jpg",
-    "lore": "El asesino más extraordinario del mundo muere después de dedicar su vida al servicio de una organización. Una diosa le ofrece renacer en un mundo de fantasía con una misión: eliminar al héroe que, según una profecía, provocará la destrucción del mundo. Reencarnado como Lugh Tuatha Dé, heredero de una familia de asesinos, combina sus conocimientos modernos con magia y entrenamiento especializado para preparar una misión que podría cambiar el destino de todos.",
-    "valoracion": 8.0,
-    "genero": [
-      "Isekai",
-      "Acción",
-      "Fantasía",
-      "Intriga"
-    ]
-  }
-    ,
-{
-  "nombre": "Sword Art Online",
-  "imagen": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/fotos/206/original/portada_sword-art-online-novela-n-01_reki-kawahara_201512161024.jpg",
-  "lore": "Kirito queda atrapado junto con miles de jugadores en un videojuego de realidad virtual donde morir dentro del juego significa morir en el mundo real. Para escapar, deberá superar los cien pisos de Aincrad, enfrentarse a enemigos poderosos y descubrir los secretos que esconde el sistema. Durante su aventura conocerá aliados y encontrará motivos para seguir luchando.",
-  "valoracion": 8.2,
-  "genero": ["Isekai", "Acción", "Fantasía", "Romance"]
-},
-{
-  "nombre": "Log Horizon",
-  "imagen": "https://static.wikia.nocookie.net/doblaje/images/c/c4/Log_Horizon_-_Poster.jpg/revision/latest?cb=20211031000204&path-prefix=es",
-  "lore": "Miles de jugadores quedan atrapados en el mundo de Elder Tale después de una actualización misteriosa. Shiroe, un estratega conocido por su inteligencia, decide organizar a los aventureros y establecer nuevas reglas para sobrevivir. Mientras descubre los misterios de ese mundo, deberá utilizar la diplomacia, la política y la estrategia para mantener el equilibrio entre jugadores y habitantes nativos.",
-  "valoracion": 8.1,
-  "genero": ["Isekai", "Fantasía", "Estrategia", "Aventura"]
-},
-{
-  "nombre": "Tsukimichi: Moonlit Fantasy",
-  "imagen": "https://a.storyblok.com/f/178900/750x1060/7c07d40672/tsukimichi_key2.jpg/m/filters:quality(95)format(webp)",
-  "lore": "Makoto Misumi es transportado a otro mundo para convertirse en héroe, pero la diosa que lo convoca lo considera desagradable y lo abandona en los confines de la tierra. Allí descubre que posee un enorme poder mágico y comienza a relacionarse con distintas razas no humanas. Con la ayuda de criaturas extraordinarias, intentará construir su propio lugar en un mundo lleno de conflictos y prejuicios.",
-  "valoracion": 8.2,
-  "genero": ["Isekai", "Fantasía", "Acción", "Comedia"]
-},
-{
-  "nombre": "The Saga of Tanya the Evil",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAAd_sIkAAGHULJ11gOWwoYItXTYVI77luVKfRp5maw&s=10",
-  "lore": "Un hombre de mentalidad racional renace como Tanya Degurechaff, una niña soldado en un mundo alternativo dominado por la guerra y la magia. Obligada a combatir en el ejército de un poderoso imperio, utiliza su inteligencia y talento estratégico para sobrevivir y ascender de rango. Sin embargo, una entidad misteriosa parece empeñada en poner a prueba su ateísmo y su capacidad para controlar su propio destino.",
-  "valoracion": 8.3,
-  "genero": ["Isekai", "Militar", "Fantasía", "Estrategia"]
-},
-{
-  "nombre": "Grimgar of Fantasy and Ash",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqgWslRf2LsssVGgmuQ88gXt8pCpWePFJxlxsN7-0zw&s=10",
-  "lore": "Un grupo de jóvenes despierta en un mundo desconocido sin recordar cómo llegó allí. Sin habilidades extraordinarias ni conocimientos sobre su nueva realidad, deben convertirse en soldados voluntarios para conseguir dinero y sobrevivir. Cada combate representa un riesgo real, y la pérdida de un compañero deja heridas emocionales que ninguno sabe cómo superar.",
-  "valoracion": 8.0,
-  "genero": ["Isekai", "Fantasía", "Aventura", "Drama"]
-},
-{
-  "nombre": "The Faraway Paladin",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzUeaDbqk1QoYC6LMX7Cg3zoKujpBZrfVcc9Adcn0iQ&s=10",
-  "lore": "Will es un niño criado en una ciudad abandonada por tres seres sobrenaturales: un guerrero esqueleto, una sacerdotisa momificada y un mago fantasmal. A medida que aprende combate, magia y religión, descubre los secretos de su origen y las promesas que unen a sus tutores. Cuando finalmente abandona su hogar, decide convertirse en un paladín y ayudar a quienes lo necesitan.",
-  "valoracion": 8.1,
-  "genero": ["Isekai", "Fantasía", "Aventura", "Drama"]
-},
-{
-  "nombre": "Death March to the Parallel World Rhapsody",
-  "imagen": "https://imgv2-2-f.scribdassets.com/img/document/575719325/original/a967bcfb32/1?v=1",
-  "lore": "Ichiro Suzuki, un programador agotado por su trabajo, despierta dentro de un mundo fantástico que recuerda a los videojuegos que desarrollaba. Tras obtener un poder extraordinario, comienza a explorar nuevas tierras, conocer compañeros y descubrir los secretos de ese universo. Aunque podría utilizar su fuerza para dominarlo todo, prefiere disfrutar de sus viajes mientras intenta comprender su nueva existencia.",
-  "valoracion": 7.6,
-  "genero": ["Isekai", "Fantasía", "Aventura", "Comedia"]
-},
-{
-  "nombre": "In Another World with My Smartphone",
-  "imagen": "https://m.media-amazon.com/images/I/81wLlYivbvL._AC_UF1000,1000_QL80_.jpg",
-  "lore": "Touya Mochizuki muere accidentalmente y recibe de Dios la oportunidad de renacer en un mundo de fantasía. Como compensación, puede conservar su teléfono inteligente y utilizarlo junto con una capacidad mágica excepcional. Durante sus viajes conoce aliados, descubre antiguas ruinas y se involucra en conflictos que superan ampliamente sus expectativas iniciales.",
-  "valoracion": 7.3,
-  "genero": ["Isekai", "Fantasía", "Aventura", "Romance"]
-},
-{
-  "nombre": "How a Realist Hero Rebuilt the Kingdom",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJ-Yer6-ORMOBmd27AKl2TBZ_Z0nFHH5lY4A2XN2tLg&s=10",
-  "lore": "Kazuya Souma es convocado a un reino al borde del colapso y termina convertido en su nuevo gobernante. En lugar de depender únicamente de la fuerza militar, utiliza conocimientos de economía, administración y política para reformar el Estado. Mientras mejora la producción y reorganiza el gobierno, deberá afrontar conspiraciones, amenazas externas y decisiones difíciles para proteger a sus habitantes.",
-  "valoracion": 8.0,
-  "genero": ["Isekai", "Fantasía", "Política", "Estrategia"]
-},
-{
-  "nombre": "The Great Cleric",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoK5JP01p7D_cUde9q-qpAkAxXSa3CD_6Pac58-ZESguQMPtc9ls1zQOAY&s=10",
-  "lore": "Un oficinista muere y renace en un mundo de fantasía como Luciel, un joven que decide convertirse en sanador. Para sobrevivir en una sociedad peligrosa, se somete a un entrenamiento agotador y aprende a utilizar la magia curativa mientras mejora sus habilidades físicas. Su disciplina y determinación lo llevarán a descubrir que incluso quienes desean ayudar a otros deben prepararse para enfrentarse a la corrupción y al peligro.",
-  "valoracion": 7.7,
-  "genero": ["Isekai", "Fantasía", "Aventura", "Comedia"]
-},
-{
-  "nombre": "The New Gate",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXwA2z3ouiEHpO7JFEbNjQ5Vh9LvdoW7EsyqDd4UDGw&s=10",
-  "lore": "Shin es uno de los jugadores que consigue liberar a miles de personas atrapadas en un videojuego mortal. Sin embargo, después de derrotar al jefe final, termina transportado a una versión desconocida de ese mundo cientos de años después. Con sus habilidades intactas, explora una realidad que ha evolucionado sin él e intenta comprender qué ocurrió durante su ausencia.",
-  "valoracion": 7.8,
-  "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
-},
-{
-  "nombre": "Seirei Gensouki: Spirit Chronicles",
-  "imagen": "https://a.storyblok.com/f/178900/1064x1494/68f1efaf40/seirei-gensouki-spirit-chronicles-season-2-teaser-visual.jpg/m/filters:quality(95)format(webp)",
-  "lore": "Haruto Amakawa muere en un accidente y su conciencia se mezcla con la de Rio, un joven que vive en un mundo de fantasía marcado por profundas diferencias sociales. Al descubrir que conserva recuerdos de su vida anterior, Rio desarrolla habilidades extraordinarias y comienza a buscar justicia por las personas que han sufrido abusos. Su viaje lo llevará a descubrir secretos relacionados con su identidad y con los poderes que posee.",
-  "valoracion": 7.9,
-  "genero": ["Isekai", "Reencarnación", "Fantasía", "Acción"]
-},
-{
-  "nombre": "The Misfit of Demon King Academy",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzJcft_Ne4H7SMZOsVZl-eHQMUmNWuQeVMUsOoRCuKxye1mff2SYchMA&s=10",
-  "lore": "Anos Voldigoad, el antiguo Rey Demonio, renace miles de años después de sacrificarse para poner fin a una guerra. Espera encontrar un mundo pacífico, pero descubre que la historia ha sido distorsionada y que sus descendientes apenas comprenden su verdadero poder. Al ingresar en una academia demoníaca, desafía las reglas establecidas y busca descubrir quién ha alterado el legado del pasado.",
-  "valoracion": 8.0,
-  "genero": ["Fantasía", "Acción", "Magia", "Reencarnación"]
-},
-{
-  "nombre": "The Irregular at Magic High School",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdISQoMh69Mwxh4YMThZu3endxxwoJ0jFxZRotd3f9w&s=10",
-  "lore": "En un futuro donde la magia se ha convertido en una tecnología avanzada, Tatsuya Shiba ingresa en una prestigiosa escuela junto con su hermana Miyuki. Aunque sus resultados académicos parecen demostrar que carece de talento, esconde capacidades excepcionales y conocimientos que desafían las reglas conocidas de la magia. Mientras ambos avanzan en sus estudios, se ven envueltos en conflictos políticos y enfrentamientos entre organizaciones poderosas.",
-  "valoracion": 8.0,
-  "genero": ["Fantasía", "Ciencia ficción", "Acción", "Escolar"]
-},
-{
-  "nombre": "DanMachi",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaI0zq5VX3RMXYXl6qnkiVRQWV62NjUJ2zQN18P0pqjw&s=10",
-  "lore": "Bell Cranel es un joven aventurero que sueña con convertirse en un héroe. Bajo la protección de la diosa Hestia, comienza a explorar una enorme mazmorra llena de monstruos y tesoros. A través de combates difíciles y encuentros inesperados, desarrolla sus habilidades y descubre que su crecimiento acelerado podría estar relacionado con un destino mucho más importante de lo que imaginaba.",
-  "valoracion": 8.0,
-  "genero": ["Fantasía", "Acción", "Aventura", "Mitología"]
-},
-{
-  "nombre": "The Unwanted Undead Adventurer",
-  "imagen": "https://a.storyblok.com/f/178900/750x1060/bb3e988a88/the_unwanted_undead_adventurer_climax_visual.jpg/m/filters:quality(95)format(webp)",
-  "lore": "Rentt Faina es un aventurero que lleva años luchando contra monstruos sin conseguir grandes reconocimientos. Durante una expedición, una criatura lo mata y despierta convertido en un esqueleto viviente. Decidido a recuperar su humanidad, comienza a evolucionar al derrotar enemigos y absorber sus características, mientras oculta su verdadera identidad y busca la forma de regresar a la sociedad.",
-  "valoracion": 7.8,
-  "genero": ["Fantasía", "Aventura", "Acción", "No muerto"]
-},
-{
-  "nombre": "Reincarnated as a Sword",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsC53Tz1avEjOgDPrCUVgBroKlVPiavYyLEVH-BNZ5g&s=10",
-  "lore": "Un hombre renace en otro mundo convertido en una espada consciente, sin recuerdos completos de su vida anterior. Tras instalarse en una zona peligrosa, conoce a Fran, una joven felina esclavizada que sueña con hacerse más fuerte. Ambos forman un vínculo especial y emprenden un viaje en el que lucharán contra monstruos, descubrirán nuevas habilidades y buscarán cambiar el destino de Fran.",
-  "valoracion": 8.0,
-  "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
-},
-{
-  "nombre": "The Wrong Way to Use Healing Magic",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjmpyXcdyTRPvseg3fXrGLpiJl-zMzvE6KuPbOcKdDKsR5zvC_0phv2em&s=10",
-  "lore": "Usato es transportado accidentalmente a otro mundo junto con dos estudiantes que han sido convocados como héroes. Al descubrir que posee magia curativa, termina bajo la tutela de una capitana militar famosa por su entrenamiento brutal. Lo que parecía una habilidad exclusivamente defensiva se convierte en la base de un estilo de combate extraordinario que pondrá a prueba su resistencia y voluntad.",
-  "valoracion": 7.9,
-  "genero": ["Isekai", "Fantasía", "Acción", "Comedia"]
-},
-{
-  "nombre": "Black Summoner",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsZdbeac6BEz2OHVfWYWoNp84Da_vTk09q3vfWRBTbQ&s=10",
-  "lore": "Kelvin renace en un mundo de fantasía a cambio de sacrificar sus recuerdos anteriores. Convertido en un poderoso invocador, decide dedicar su nueva vida a combatir enemigos cada vez más fuertes. Acompañado por compañeros que se convierten en sus aliados y amigos, acepta misiones peligrosas y descubre que su obsesión por las batallas podría llevarlo mucho más lejos de lo que había previsto.",
-  "valoracion": 7.6,
-  "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
-},
-{
-  "nombre": "Failure Frame",
-  "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4H60cuvT5Xul6Oh03wUbhgwX9WS2HjCoWLss9a6Pl7TOjJV3kal9FfvBw&s=10",
-  "lore": "Touka Mimori es transportado a un mundo de fantasía junto con sus compañeros de clase para servir a una diosa. Considerado inútil debido a sus habilidades aparentemente débiles, es enviado a una mazmorra mortal para desaparecer. Sin embargo, descubre que sus poderes de debilitamiento pueden ser devastadores si aprende a utilizarlos correctamente. Impulsado por el deseo de sobrevivir y vengarse, comienza a preparar su regreso.",
-  "valoracion": 7.7,
-  "genero": ["Isekai", "Fantasía", "Acción", "Venganza"]
-},
-{
-  "nombre": "Goblin Slayer",
-  "imagen": "https://images.yenpress.com/imgs/9780316553247.jpg?h=612&s=64c69816933682c53c911c44d7fd87e7&type=books&w=408",
-  "lore": "En un mundo de fantasía donde los aventureros buscan fama y riquezas, una joven sacerdotisa se une a su primera expedición y descubre demasiado tarde lo aterrador que puede ser su enemigo. Cuando su grupo está a punto de ser aniquilado por goblins, aparece un guerrero enmascarado conocido como Goblin Slayer. Obsesionado con exterminar a estas criaturas, utiliza trampas, preparación y tácticas implacables para cazarlas. Su pasado traumático y su implacable misión lo convierten en una figura temida incluso entre otros aventureros.",
-  "valoracion": 8.3,
-  "genero": [
-    "Fantasía oscura",
-    "Acción",
-    "Horror",
-    "Aventura"
-  ]
-},
-{
-  "nombre": "Her Majesty's Swarm",
-  "imagen": "https://images.yenpress.com/imgs/9781718359161.jpg?h=612&s=29e6a4c9960664a792960f1bb653a902&type=books&v=20250717150918&w=408",
-  "lore": "Una estudiante universitaria despierta en un mundo desconocido con el cuerpo de una niña y el poder de controlar a la facción de insectos de su videojuego de estrategia favorito. Convertida en la líder de una colonia monstruosa, comienza a expandir su territorio y establecer alianzas. Sin embargo, cuando un reino destruye una aldea élfica y provoca una tragedia entre sus aliados, decide responder con una campaña militar despiadada. Su ambición y su dominio sobre criaturas aterradoras amenazan con cambiar el destino de todo el continente.",
-  "valoracion": 7.8,
-  "genero": [
-    "Isekai",
-    "Fantasía oscura",
-    "Estrategia",
-    "Militar"
-  ]
-},
-{
-  "nombre": "Hell Is Dark with No Flowers",
-  "imagen": "https://images.yenpress.com/imgs/9781975379391.jpg?h=612&s=2d05802b722ee713bad381b2754acda4&type=books&w=408",
-  "lore": "Seiji Tohno vive marcado por una maldición que le hace percibir a las personas de su alrededor como monstruos. Su vida cambia cuando conoce a Shiroshi Saijou, un misterioso joven que vive en una enorme mansión y le ofrece trabajo como asistente. Pronto descubre que el verdadero oficio de Shiroshi consiste en enviar al infierno a pecadores poseídos por espíritus sobrenaturales. Entre maldiciones, secretos y criaturas aterradoras, Seiji deberá enfrentarse a horrores que desafían su comprensión de la realidad.",
-  "valoracion": 8.0,
-  "genero": [
-    "Horror",
-    "Misterio",
-    "Sobrenatural",
-    "Fantasía oscura"
-  ]
-},
-{
-  "nombre": "Bone Ash",
-  "imagen": "https://images.yenpress.com/imgs/9798855413090.jpg?h=612&s=72f4e4c977f97dc4779c6cb2d28d02ef&type=books&w=408",
-  "lore": "Mitsuhiro Matsunaga trabaja en una empresa inmobiliaria que construye un enorme edificio. Cuando empiezan a circular rumores sobre incendios, enfermedades y restos humanos encontrados en el lugar, decide investigar personalmente. Bajo tierra descubre una cámara ritual desconocida y a un hombre encadenado en su interior. Lo que comienza como una investigación sobre una construcción sospechosa se transforma en una pesadilla de maldiciones, rituales y fuerzas sobrenaturales que amenazan a su familia.",
-  "valoracion": 7.9,
-  "genero": [
-    "Horror",
-    "Misterio",
-    "Sobrenatural",
-    "Thriller"
-  ]
-},
-{
-  "nombre": "Lord of Mysteries",
-  "imagen": "https://images.yenpress.com/imgs/9798855413779.jpg?h=612&s=e8f70ee08d17511e878a2f74eafe0aea&type=books&v=20250505080701&w=408",
-  "lore": "Zhou Mingrui despierta en un mundo desconocido, rodeado de sangre y envuelto en los recuerdos de otra persona. En una sociedad inspirada en la época victoriana, donde conviven fábricas, trenes y tecnología de vapor, descubre que existen organizaciones secretas, pociones misteriosas y artefactos sellados capaces de otorgar poderes extraordinarios. Mientras investiga su nueva identidad, se adentra en una conspiración que conecta a seres sobrenaturales, antiguas civilizaciones y entidades cuya existencia puede poner en peligro la cordura y el destino de la humanidad.",
-  "valoracion": 9.0,
-  "genero": [
-    "Fantasía oscura",
-    "Misterio",
-    "Sobrenatural",
-    "Terror cósmico"
+    {
+      "id": "mushoku-tensei",
+      "nombre": "Mushoku Tensei",
+      "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/0e/51/0e51a1439d7755a7de43d3d6393fb189.jpg",
+      "lore": "Un hombre que desperdició gran parte de su vida muere en un accidente y renace en un mundo de magia como Rudeus Greyrat. Conservando los recuerdos de su vida anterior, decide aprovechar esta segunda oportunidad para no repetir sus errores. Mientras aprende magia y conoce nuevos compañeros, deberá enfrentarse a peligros, pérdidas y decisiones que pondrán a prueba su deseo de cambiar.",
+      "valoracion": 8.8,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Drama"]
+    },
+    {
+      "id": "that-time-i-got-reincarnated-as-a-slime",
+      "nombre": "That Time I Got Reincarnated as a Slime",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8c/That_Time_I_Got_Reincarnated_as_a_Slime_light_novel_volume_1_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+      "lore": "Satoru Mikami, un oficinista de 37 años, muere inesperadamente y renace en otro mundo convertido en un slime. Allí obtiene habilidades extraordinarias que le permiten absorber criaturas y adquirir sus poderes. Bajo el nombre de Rimuru Tempest, comienza a reunir monstruos y otras razas para construir una nación donde puedan convivir en paz, aunque sus ambiciones pronto lo enfrentan a poderosos enemigos.",
+      "valoracion": 8.5,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Comedia"]
+    },
+    {
+      "id": "konosuba",
+      "nombre": "KonoSuba",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ydJpnNX5Axs_6jBjcidplPnqnNMum5PZI4ZHJO1UaDL-10Aj6exf9uI&s=10",
+      "lore": "Después de una muerte bastante absurda, Kazuma Satou se encuentra con la diosa Aqua, quien le ofrece la oportunidad de comenzar una nueva vida en un mundo de fantasía. Kazuma elige llevarse a Aqua con él, pero pronto descubre que su nueva aventura está lejos de ser una historia heroica. Junto con una maga obsesionada con una sola técnica y una caballera con gustos peculiares, formará un grupo tan problemático como divertido.",
+      "valoracion": 8.4,
+      "genero": ["Isekai", "Comedia", "Fantasía", "Aventura"]
+    },
+    {
+      "id": "the-rising-of-the-shield-hero",
+      "nombre": "The Rising of the Shield Hero",
+      "imagen": "https://m.media-amazon.com/images/I/81dtd6Op+3L._AC_UF1000,1000_QL80_.jpg",
+      "lore": "Naofumi Iwatani es convocado a un reino desconocido junto con otros tres jóvenes para convertirse en uno de los Héroes Legendarios. Sin embargo, recibe el Escudo Legendario, un arma defensiva que parece poco útil para atacar, y pronto es traicionado y acusado injustamente. Despreciado por casi todos, deberá reconstruir su reputación, encontrar aliados y luchar contra unas catástrofes conocidas como las Olas, que amenazan con destruir su nuevo mundo.",
+      "valoracion": 8.1,
+      "genero": ["Isekai", "Acción", "Fantasía", "Drama"]
+    },
+    {
+      "id": "no-game-no-life",
+      "nombre": "No Game No Life",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjAnMiRqNrC9ihrN-tPVHA0xC2S9woR8C17NnCE1AaUe7JSb_RV0VdNFZ&s=10",
+      "lore": "Sora y Shiro son dos hermanos prodigiosos que consideran el mundo real un juego aburrido. Tras recibir una invitación misteriosa, son transportados a Disboard, un mundo donde todos los conflictos se resuelven mediante juegos y las reglas prohíben la guerra convencional. Con su inteligencia y extraordinaria capacidad para trabajar en equipo, intentarán derrotar a las distintas razas y desafiar al mismísimo Dios de ese mundo.",
+      "valoracion": 8.3,
+      "genero": ["Isekai", "Fantasía", "Estrategia", "Comedia"]
+    },
+    {
+      "id": "the-eminence-in-shadow",
+      "nombre": "The Eminence in Shadow",
+      "imagen": "https://static0.cbrimages.com/wordpress/wp-content/uploads/sharedimages/2024/05/the-eminence-in-shadow-2022.jpg?q=50&fit=contain&w=480&dpr=1.5",
+      "lore": "Desde pequeño, Cid Kagenou sueña con convertirse en una figura misteriosa que controle los acontecimientos desde las sombras. Tras morir en su mundo original, renace en un universo de magia y comienza a construir una organización secreta para cumplir su fantasía. Lo que Cid cree que es una elaborada invención termina convirtiéndose en una conspiración real, mientras sus seguidores interpretan sus palabras como si fueran las de un auténtico genio estratégico.",
+      "valoracion": 8.4,
+      "genero": ["Isekai", "Acción", "Fantasía", "Comedia"]
+    },
+    {
+      "id": "so-im-a-spider-so-what",
+      "nombre": "So I'm a Spider, So What?",
+      "imagen": "https://m.media-amazon.com/images/I/91G8ro+OLRL._AC_UF1000,1000_QL80_.jpg",
+      "lore": "Una misteriosa catástrofe acaba con la vida de una clase entera y sus estudiantes renacen en un mundo fantástico. La protagonista tiene una suerte especialmente mala: aparece dentro de una mazmorra convertida en una pequeña araña monstruosa. Rodeada de criaturas peligrosas y sin aliados, deberá luchar para sobrevivir, subir de nivel y evolucionar mediante un sistema de habilidades. Cada victoria la acerca a descubrir el secreto que conecta su reencarnación con el destino del mundo.",
+      "valoracion": 8.0,
+      "genero": ["Isekai", "Reencarnación", "Fantasía", "Supervivencia"]
+    },
+    {
+      "id": "arifureta",
+      "nombre": "Arifureta: From Commonplace to World's Strongest",
+      "imagen": "https://m.media-amazon.com/images/I/81MSDUItgHL._AC_UF1000,1000_QL80_.jpg",
+      "lore": "Hajime Nagumo es transportado a un mundo fantástico junto con sus compañeros de clase para luchar contra poderosos enemigos. Mientras los demás reciben habilidades impresionantes, él obtiene una capacidad de transmutación que parece poco útil para el combate. Traicionado y abandonado en el fondo de una peligrosa mazmorra, deberá superar criaturas mortales, conseguir nuevas habilidades y transformarse en alguien mucho más poderoso si quiere sobrevivir y regresar a casa.",
+      "valoracion": 7.8,
+      "genero": ["Isekai", "Acción", "Fantasía", "Aventura"]
+    },
+    {
+      "id": "ascendance-of-a-bookworm",
+      "nombre": "Ascendance of a Bookworm",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOXF744jTT8a8uG2BhlSwtwBhzNZpftZIO7PHnhG31WFv7NhRB28DEtc&s=10",
+      "lore": "Una joven amante de los libros muere y renace como Myne, una niña débil de una familia humilde en un mundo donde los libros son un lujo reservado para unos pocos. Incapaz de aceptar que no puede leer cuanto desea, decide fabricar sus propios libros, aunque pronto descubre que conseguir materiales y desarrollar técnicas de impresión será una tarea difícil. Su pasión por la lectura la llevará a revolucionar poco a poco la sociedad que la rodea.",
+      "valoracion": 8.6,
+      "genero": ["Isekai", "Reencarnación", "Fantasía", "Vida cotidiana"]
+    },
+    {
+      "id": "the-worlds-finest-assassin",
+      "nombre": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BMTgzM2NkYWMtN2RjYy00NjExLWE2MmYtNGI1ZTUzZjY4ZTIwXkEyXkFqcGc@._V1_.jpg",
+      "lore": "El asesino más extraordinario del mundo muere después de dedicar su vida al servicio de una organización. Una diosa le ofrece renacer en un mundo de fantasía con una misión: eliminar al héroe que, según una profecía, provocará la destrucción del mundo. Reencarnado como Lugh Tuatha Dé, heredero de una familia de asesinos, combina sus conocimientos modernos con magia y entrenamiento especializado para preparar una misión que podría cambiar el destino de todos.",
+      "valoracion": 8.0,
+      "genero": ["Isekai", "Acción", "Fantasía", "Intriga"]
+    },
+    {
+      "id": "sword-art-online",
+      "nombre": "Sword Art Online",
+      "imagen": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/fotos/206/original/portada_sword-art-online-novela-n-01_reki-kawahara_201512161024.jpg",
+      "lore": "Kirito queda atrapado junto con miles de jugadores en un videojuego de realidad virtual donde morir dentro del juego significa morir en el mundo real. Para escapar, deberá superar los cien pisos de Aincrad, enfrentarse a enemigos poderosos y descubrir los secretos que esconde el sistema. Durante su aventura conocerá aliados y encontrará motivos para seguir luchando.",
+      "valoracion": 8.2,
+      "genero": ["Isekai", "Acción", "Fantasía", "Romance"]
+    },
+    {
+      "id": "log-horizon",
+      "nombre": "Log Horizon",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/c/c4/Log_Horizon_-_Poster.jpg/revision/latest?cb=20211031000204&path-prefix=es",
+      "lore": "Miles de jugadores quedan atrapados en el mundo de Elder Tale después de una actualización misteriosa. Shiroe, un estratega conocido por su inteligencia, decide organizar a los aventureros y establecer nuevas reglas para sobrevivir. Mientras descubre los misterios de ese mundo, deberá utilizar la diplomacia, la política y la estrategia para mantener el equilibrio entre jugadores y habitantes nativos.",
+      "valoracion": 8.1,
+      "genero": ["Isekai", "Fantasía", "Estrategia", "Aventura"]
+    },
+    {
+      "id": "tsukimichi-moonlit-fantasy",
+      "nombre": "Tsukimichi: Moonlit Fantasy",
+      "imagen": "https://a.storyblok.com/f/178900/750x1060/7c07d40672/tsukimichi_key2.jpg/m/filters:quality(95)format(webp)",
+      "lore": "Makoto Misumi es transportado a otro mundo para convertirse en héroe, pero la diosa que lo convoca lo considera desagradable y lo abandona en los confines de la tierra. Allí descubre que posee un enorme poder mágico y comienza a relacionarse con distintas razas no humanas. Con la ayuda de criaturas extraordinarias, intentará construir su propio lugar en un mundo lleno de conflictos y prejuicios.",
+      "valoracion": 8.2,
+      "genero": ["Isekai", "Fantasía", "Acción", "Comedia"]
+    },
+    {
+      "id": "the-saga-of-tanya-the-evil",
+      "nombre": "The Saga of Tanya the Evil",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUAAd_sIkAAGHULJ11gOWwoYItXTYVI77luVKfRp5maw&s=10",
+      "lore": "Un hombre de mentalidad racional renace como Tanya Degurechaff, una niña soldado en un mundo alternativo dominado por la guerra y la magia. Obligada a combatir en el ejército de un poderoso imperio, utiliza su inteligencia y talento estratégico para sobrevivir y ascender de rango. Sin embargo, una entidad misteriosa parece empeñada en poner a prueba su ateísmo y su capacidad para controlar su propio destino.",
+      "valoracion": 8.3,
+      "genero": ["Isekai", "Militar", "Fantasía", "Estrategia"]
+    },
+    {
+      "id": "grimgar-of-fantasy-and-ash",
+      "nombre": "Grimgar of Fantasy and Ash",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqgWslRf2LsssVGgmuQ88gXt8pCpWePFJxlxsN7-0zw&s=10",
+      "lore": "Un grupo de jóvenes despierta en un mundo desconocido sin recordar cómo llegó allí. Sin habilidades extraordinarias ni conocimientos sobre su nueva realidad, deben convertirse en soldados voluntarios para conseguir dinero y sobrevivir. Cada combate representa un riesgo real, y la pérdida de un compañero deja heridas emocionales que ninguno sabe cómo superar.",
+      "valoracion": 8.0,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Drama"]
+    },
+    {
+      "id": "the-faraway-paladin",
+      "nombre": "The Faraway Paladin",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzUeaDbqk1QoYC6LMX7Cg3zoKujpBZrfVcc9Adcn0iQ&s=10",
+      "lore": "Will es un niño criado en una ciudad abandonada por tres seres sobrenaturales: un guerrero esqueleto, una sacerdotisa momificada y un mago fantasmal. A medida que aprende combate, magia y religión, descubre los secretos de su origen y las promesas que unen a sus tutores. Cuando finalmente abandona su hogar, decide convertirse en un paladín y ayudar a quienes lo necesitan.",
+      "valoracion": 8.1,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Drama"]
+    },
+    {
+      "id": "death-march",
+      "nombre": "Death March to the Parallel World Rhapsody",
+      "imagen": "https://imgv2-2-f.scribdassets.com/img/document/575719325/original/a967bcfb32/1?v=1",
+      "lore": "Ichiro Suzuki, un programador agotado por su trabajo, despierta dentro de un mundo fantástico que recuerda a los videojuegos que desarrollaba. Tras obtener un poder extraordinario, comienza a explorar nuevas tierras, conocer compañeros y descubrir los secretos de ese universo. Aunque podría utilizar su fuerza para dominarlo todo, prefiere disfrutar de sus viajes mientras intenta comprender su nueva existencia.",
+      "valoracion": 7.6,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Comedia"]
+    },
+    {
+      "id": "in-another-world-with-my-smartphone",
+      "nombre": "In Another World with My Smartphone",
+      "imagen": "https://m.media-amazon.com/images/I/81wLlYivbvL._AC_UF1000,1000_QL80_.jpg",
+      "lore": "Touya Mochizuki muere accidentalmente y recibe de Dios la oportunidad de renacer en un mundo de fantasía. Como compensación, puede conservar su teléfono inteligente y utilizarlo junto con una capacidad mágica excepcional. Durante sus viajes conoce aliados, descubre antiguas ruinas y se involucra en conflictos que superan ampliamente sus expectativas iniciales.",
+      "valoracion": 7.3,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Romance"]
+    },
+    {
+      "id": "how-a-realist-hero-rebuilt-the-kingdom",
+      "nombre": "How a Realist Hero Rebuilt the Kingdom",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGJ-Yer6-ORMOBmd27AKl2TBZ_Z0nFHH5lY4A2XN2tLg&s=10",
+      "lore": "Kazuya Souma es convocado a un reino al borde del colapso y termina convertido en su nuevo gobernante. En lugar de depender únicamente de la fuerza militar, utiliza conocimientos de economía, administración y política para reformar el Estado. Mientras mejora la producción y reorganiza el gobierno, deberá afrontar conspiraciones, amenazas externas y decisiones difíciles para proteger a sus habitantes.",
+      "valoracion": 8.0,
+      "genero": ["Isekai", "Fantasía", "Política", "Estrategia"]
+    },
+    {
+      "id": "the-great-cleric",
+      "nombre": "The Great Cleric",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoK5JP01p7D_cUde9q-qpAkAxXSa3CD_6Pac58-ZESguQMPtc9ls1zQOAY&s=10",
+      "lore": "Un oficinista muere y renace en un mundo de fantasía como Luciel, un joven que decide convertirse en sanador. Para sobrevivir en una sociedad peligrosa, se somete a un entrenamiento agotador y aprende a utilizar la magia curativa mientras mejora sus habilidades físicas. Su disciplina y determinación lo llevarán a descubrir que incluso quienes desean ayudar a otros deben prepararse para enfrentarse a la corrupción y al peligro.",
+      "valoracion": 7.7,
+      "genero": ["Isekai", "Fantasía", "Aventura", "Comedia"]
+    },
+    {
+      "id": "the-new-gate",
+      "nombre": "The New Gate",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXwA2z3ouiEHpO7JFEbNjQ5Vh9LvdoW7EsyqDd4UDGw&s=10",
+      "lore": "Shin es uno de los jugadores que consigue liberar a miles de personas atrapadas en un videojuego mortal. Sin embargo, después de derrotar al jefe final, termina transportado a una versión desconocida de ese mundo cientos de años después. Con sus habilidades intactas, explora una realidad que ha evolucionado sin él e intenta comprender qué ocurrió durante su ausencia.",
+      "valoracion": 7.8,
+      "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
+    },
+    {
+      "id": "seirei-gensouki-spirit-chronicles",
+      "nombre": "Seirei Gensouki: Spirit Chronicles",
+      "imagen": "https://a.storyblok.com/f/178900/1064x1494/68f1efaf40/seirei-gensouki-spirit-chronicles-season-2-teaser-visual.jpg/m/filters:quality(95)format(webp)",
+      "lore": "Haruto Amakawa muere en un accidente y su conciencia se mezcla con la de Rio, un joven que vive en un mundo de fantasía marcado por profundas diferencias sociales. Al descubrir que conserva recuerdos de su vida anterior, Rio desarrolla habilidades extraordinarias y comienza a buscar justicia por las personas que han sufrido abusos. Su viaje lo llevará a descubrir secretos relacionados con su identidad y con los poderes que posee.",
+      "valoracion": 7.9,
+      "genero": ["Isekai", "Reencarnación", "Fantasía", "Acción"]
+    },
+    {
+      "id": "the-misfit-of-demon-king-academy",
+      "nombre": "The Misfit of Demon King Academy",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzJcft_Ne4H7SMZOsVZl-eHQMUmNWuQeVMUsOoRCuKxye1mff2SYchMA&s=10",
+      "lore": "Anos Voldigoad, el antiguo Rey Demonio, renace miles de años después de sacrificarse para poner fin a una guerra. Espera encontrar un mundo pacífico, pero descubre que la historia ha sido distorsionada y que sus descendientes apenas comprenden su verdadero poder. Al ingresar en una academia demoníaca, desafía las reglas establecidas y busca descubrir quién ha alterado el legado del pasado.",
+      "valoracion": 8.0,
+      "genero": ["Fantasía", "Acción", "Magia", "Reencarnación"]
+    },
+    {
+      "id": "the-irregular-at-magic-high-school",
+      "nombre": "The Irregular at Magic High School",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdISQoMh69Mwxh4YMThZu3endxxwoJ0jFxZRotd3f9w&s=10",
+      "lore": "En un futuro donde la magia se ha convertido en una tecnología avanzada, Tatsuya Shiba ingresa en una prestigiosa escuela junto con su hermana Miyuki. Aunque sus resultados académicos parecen demostrar que carece de talento, esconde capacidades excepcionales y conocimientos que desafían las reglas conocidas de la magia. Mientras ambos avanzan en sus estudios, se ven envueltos en conflictos políticos y enfrentamientos entre organizaciones poderosas.",
+      "valoracion": 8.0,
+      "genero": ["Fantasía", "Ciencia ficción", "Acción", "Escolar"]
+    },
+    {
+      "id": "danmachi",
+      "nombre": "DanMachi",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaI0zq5VX3RMXYXl6qnkiVRQWV62NjUJ2zQN18P0pqjw&s=10",
+      "lore": "Bell Cranel es un joven aventurero que sueña con convertirse en un héroe. Bajo la protección de la diosa Hestia, comienza a explorar una enorme mazmorra llena de monstruos y tesoros. A través de combates difíciles y encuentros inesperados, desarrolla sus habilidades y descubre que su crecimiento acelerado podría estar relacionado con un destino mucho más importante de lo que imaginaba.",
+      "valoracion": 8.0,
+      "genero": ["Fantasía", "Acción", "Aventura", "Mitología"]
+    },
+    {
+      "id": "the-unwanted-undead-adventurer",
+      "nombre": "The Unwanted Undead Adventurer",
+      "imagen": "https://a.storyblok.com/f/178900/750x1060/bb3e988a88/the_unwanted_undead_adventurer_climax_visual.jpg/m/filters:quality(95)format(webp)",
+      "lore": "Rentt Faina es un aventurero que lleva años luchando contra monstruos sin conseguir grandes reconocimientos. Durante una expedición, una criatura lo mata y despierta convertido en un esqueleto viviente. Decidido a recuperar su humanidad, comienza a evolucionar al derrotar enemigos y absorber sus características, mientras oculta su verdadera identidad y busca la forma de regresar a la sociedad.",
+      "valoracion": 7.8,
+      "genero": ["Fantasía", "Aventura", "Acción", "No muerto"]
+    },
+    {
+      "id": "reincarnated-as-a-sword",
+      "nombre": "Reincarnated as a Sword",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsC53Tz1avEjOgDPrCUVgBroKlVPiavYyLEVH-BNZ5g&s=10",
+      "lore": "Un hombre renace en otro mundo convertido en una espada consciente, sin recuerdos completos de su vida anterior. Tras instalarse en una zona peligrosa, conoce a Fran, una joven felina esclavizada que sueña con hacerse más fuerte. Ambos forman un vínculo especial y emprenden un viaje en el que lucharán contra monstruos, descubrirán nuevas habilidades y buscarán cambiar el destino de Fran.",
+      "valoracion": 8.0,
+      "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
+    },
+    {
+      "id": "the-wrong-way-to-use-healing-magic",
+      "nombre": "The Wrong Way to Use Healing Magic",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjmpyXcdyTRPvseg3fXrGLpiJl-zMzvE6KuPbOcKdDKsR5zvC_0phv2em&s=10",
+      "lore": "Usato es transportado accidentalmente a otro mundo junto con dos estudiantes que han sido convocados como héroes. Al descubrir que posee magia curativa, termina bajo la tutela de una capitana militar famosa por su entrenamiento brutal. Lo que parecía una habilidad exclusivamente defensiva se convierte en la base de un estilo de combate extraordinario que pondrá a prueba su resistencia y voluntad.",
+      "valoracion": 7.9,
+      "genero": ["Isekai", "Fantasía", "Acción", "Comedia"]
+    },
+    {
+      "id": "black-summoner",
+      "nombre": "Black Summoner",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBsZdbeac6BEz2OHVfWYWoNp84Da_vTk09q3vfWRBTbQ&s=10",
+      "lore": "Kelvin renace en un mundo de fantasía a cambio de sacrificar sus recuerdos anteriores. Convertido en un poderoso invocador, decide dedicar su nueva vida a combatir enemigos cada vez más fuertes. Acompañado por compañeros que se convierten en sus aliados y amigos, acepta misiones peligrosas y descubre que su obsesión por las batallas podría llevarlo mucho más lejos de lo que había previsto.",
+      "valoracion": 7.6,
+      "genero": ["Isekai", "Fantasía", "Acción", "Aventura"]
+    },
+    {
+      "id": "failure-frame",
+      "nombre": "Failure Frame",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4H60cuvT5Xul6Oh03wUbhgwX9WS2HjCoWLss9a6Pl7TOjJV3kal9FfvBw&s=10",
+      "lore": "Touka Mimori es transportado a un mundo de fantasía junto con sus compañeros de clase para servir a una diosa. Considerado inútil debido a sus habilidades aparentemente débiles, es enviado a una mazmorra mortal para desaparecer. Sin embargo, descubre que sus poderes de debilitamiento pueden ser devastadores si aprende a utilizarlos correctamente. Impulsado por el deseo de sobrevivir y vengarse, comienza a preparar su regreso.",
+      "valoracion": 7.7,
+      "genero": ["Isekai", "Fantasía", "Acción", "Venganza"]
+    },
+    {
+      "id": "goblin-slayer",
+      "nombre": "Goblin Slayer",
+      "imagen": "https://images.yenpress.com/imgs/9780316553247.jpg?h=612&s=64c69816933682c53c911c44d7fd87e7&type=books&w=408",
+      "lore": "En un mundo de fantasía donde los aventureros buscan fama y riquezas, una joven sacerdotisa se une a su primera expedición y descubre demasiado tarde lo aterrador que puede ser su enemigo. Cuando su grupo está a punto de ser aniquilado por goblins, aparece un guerrero enmascarado conocido como Goblin Slayer. Obsesionado con exterminar a estas criaturas, utiliza trampas, preparación y tácticas implacables para cazarlas. Su pasado traumático y su implacable misión lo convierten en una figura temida incluso entre otros aventureros.",
+      "valoracion": 8.3,
+      "genero": ["Fantasía oscura", "Acción", "Horror", "Aventura"]
+    },
+    {
+      "id": "her-majestys-swarm",
+      "nombre": "Her Majesty's Swarm",
+      "imagen": "https://images.yenpress.com/imgs/9781718359161.jpg?h=612&s=29e6a4c9960664a792960f1bb653a902&type=books&v=20250717150918&w=408",
+      "lore": "Una estudiante universitaria despierta en un mundo desconocido con el cuerpo de una niña y el poder de controlar a la facción de insectos de su videojuego de estrategia favorito. Convertida en la líder de una colonia monstruosa, comienza a expandir su territorio y establecer alianzas. Sin embargo, cuando un reino destruye una aldea élfica y provoca una tragedia entre sus aliados, decide responder con una campaña militar despiadada. Su ambición y su dominio sobre criaturas aterradoras amenazan con cambiar el destino de todo el continente.",
+      "valoracion": 7.8,
+      "genero": ["Isekai", "Fantasía oscura", "Estrategia", "Militar"]
+    },
+    {
+      "id": "hell-is-dark-with-no-flowers",
+      "nombre": "Hell Is Dark with No Flowers",
+      "imagen": "https://images.yenpress.com/imgs/9781975379391.jpg?h=612&s=2d05802b722ee713bad381b2754acda4&type=books&w=408",
+      "lore": "Seiji Tohno vive marcado por una maldición que le hace percibir a las personas de su alrededor como monstruos. Su vida cambia cuando conoce a Shiroshi Saijou, un misterioso joven que vive en una enorme mansión y le ofrece trabajo como asistente. Pronto descubre que el verdadero oficio de Shiroshi consiste en enviar al infierno a pecadores poseídos por espíritus sobrenaturales. Entre maldiciones, secretos y criaturas aterradoras, Seiji deberá enfrentarse a horrores que desafían su comprensión de la realidad.",
+      "valoracion": 8.0,
+      "genero": ["Horror", "Misterio", "Sobrenatural", "Fantasía oscura"]
+    },
+    {
+      "id": "bone-ash",
+      "nombre": "Bone Ash",
+      "imagen": "https://images.yenpress.com/imgs/9798855413090.jpg?h=612&s=72f4e4c977f97dc4779c6cb2d28d02ef&type=books&w=408",
+      "lore": "Mitsuhiro Matsunaga trabaja en una empresa inmobiliaria que construye un enorme edificio. Cuando empiezan a circular rumores sobre incendios, enfermedades y restos humanos encontrados en el lugar, decide investigar personalmente. Bajo tierra descubre una cámara ritual desconocida y a un hombre encadenado en su interior. Lo que comienza como una investigación sobre una construcción sospechosa se transforma en una pesadilla de maldiciones, rituales y fuerzas sobrenaturales que amenazan a su familia.",
+      "valoracion": 7.9,
+      "genero": ["Horror", "Misterio", "Sobrenatural", "Thriller"]
+    },
+    {
+      "id": "lord-of-mysteries",
+      "nombre": "Lord of Mysteries",
+      "imagen": "https://images.yenpress.com/imgs/9798855413779.jpg?h=612&s=e8f70ee08d17511e878a2f74eafe0aea&type=books&v=20250505080701&w=408",
+      "lore": "Zhou Mingrui despierta en un mundo desconocido, rodeado de sangre y envuelto en los recuerdos de otra persona. En una sociedad inspirada en la época victoriana, donde conviven fábricas, trenes y tecnología de vapor, descubre que existen organizaciones secretas, pociones misteriosas y artefactos sellados capaces de otorgar poderes extraordinarios. Mientras investiga su nueva identidad, se adentra en una conspiración que conecta a seres sobrenaturales, antiguas civilizaciones y entidades cuya existencia puede poner en peligro la cordura y el destino de la humanidad.",
+      "valoracion": 9.0,
+      "genero": ["Fantasía oscura", "Misterio", "Sobrenatural", "Terror cósmico"]
+    }
   ]
 }
-  ]
-}
+
