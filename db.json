@@ -284,6 +284,66 @@
   "lore": "Touka Mimori es transportado a un mundo de fantasía junto con sus compañeros de clase para servir a una diosa. Considerado inútil debido a sus habilidades aparentemente débiles, es enviado a una mazmorra mortal para desaparecer. Sin embargo, descubre que sus poderes de debilitamiento pueden ser devastadores si aprende a utilizarlos correctamente. Impulsado por el deseo de sobrevivir y vengarse, comienza a preparar su regreso.",
   "valoracion": 7.7,
   "genero": ["Isekai", "Fantasía", "Acción", "Venganza"]
+},
+{
+  "nombre": "Goblin Slayer",
+  "imagen": "https://images.yenpress.com/imgs/9780316553247.jpg?h=612&s=64c69816933682c53c911c44d7fd87e7&type=books&w=408",
+  "lore": "En un mundo de fantasía donde los aventureros buscan fama y riquezas, una joven sacerdotisa se une a su primera expedición y descubre demasiado tarde lo aterrador que puede ser su enemigo. Cuando su grupo está a punto de ser aniquilado por goblins, aparece un guerrero enmascarado conocido como Goblin Slayer. Obsesionado con exterminar a estas criaturas, utiliza trampas, preparación y tácticas implacables para cazarlas. Su pasado traumático y su implacable misión lo convierten en una figura temida incluso entre otros aventureros.",
+  "valoracion": 8.3,
+  "genero": [
+    "Fantasía oscura",
+    "Acción",
+    "Horror",
+    "Aventura"
+  ]
+},
+{
+  "nombre": "Her Majesty's Swarm",
+  "imagen": "https://images.yenpress.com/imgs/9781718359161.jpg?h=612&s=29e6a4c9960664a792960f1bb653a902&type=books&v=20250717150918&w=408",
+  "lore": "Una estudiante universitaria despierta en un mundo desconocido con el cuerpo de una niña y el poder de controlar a la facción de insectos de su videojuego de estrategia favorito. Convertida en la líder de una colonia monstruosa, comienza a expandir su territorio y establecer alianzas. Sin embargo, cuando un reino destruye una aldea élfica y provoca una tragedia entre sus aliados, decide responder con una campaña militar despiadada. Su ambición y su dominio sobre criaturas aterradoras amenazan con cambiar el destino de todo el continente.",
+  "valoracion": 7.8,
+  "genero": [
+    "Isekai",
+    "Fantasía oscura",
+    "Estrategia",
+    "Militar"
+  ]
+},
+{
+  "nombre": "Hell Is Dark with No Flowers",
+  "imagen": "https://images.yenpress.com/imgs/9781975379391.jpg?h=612&s=2d05802b722ee713bad381b2754acda4&type=books&w=408",
+  "lore": "Seiji Tohno vive marcado por una maldición que le hace percibir a las personas de su alrededor como monstruos. Su vida cambia cuando conoce a Shiroshi Saijou, un misterioso joven que vive en una enorme mansión y le ofrece trabajo como asistente. Pronto descubre que el verdadero oficio de Shiroshi consiste en enviar al infierno a pecadores poseídos por espíritus sobrenaturales. Entre maldiciones, secretos y criaturas aterradoras, Seiji deberá enfrentarse a horrores que desafían su comprensión de la realidad.",
+  "valoracion": 8.0,
+  "genero": [
+    "Horror",
+    "Misterio",
+    "Sobrenatural",
+    "Fantasía oscura"
+  ]
+},
+{
+  "nombre": "Bone Ash",
+  "imagen": "https://images.yenpress.com/imgs/9798855413090.jpg?h=612&s=72f4e4c977f97dc4779c6cb2d28d02ef&type=books&w=408",
+  "lore": "Mitsuhiro Matsunaga trabaja en una empresa inmobiliaria que construye un enorme edificio. Cuando empiezan a circular rumores sobre incendios, enfermedades y restos humanos encontrados en el lugar, decide investigar personalmente. Bajo tierra descubre una cámara ritual desconocida y a un hombre encadenado en su interior. Lo que comienza como una investigación sobre una construcción sospechosa se transforma en una pesadilla de maldiciones, rituales y fuerzas sobrenaturales que amenazan a su familia.",
+  "valoracion": 7.9,
+  "genero": [
+    "Horror",
+    "Misterio",
+    "Sobrenatural",
+    "Thriller"
+  ]
+},
+{
+  "nombre": "Lord of Mysteries",
+  "imagen": "https://images.yenpress.com/imgs/9798855413779.jpg?h=612&s=e8f70ee08d17511e878a2f74eafe0aea&type=books&v=20250505080701&w=408",
+  "lore": "Zhou Mingrui despierta en un mundo desconocido, rodeado de sangre y envuelto en los recuerdos de otra persona. En una sociedad inspirada en la época victoriana, donde conviven fábricas, trenes y tecnología de vapor, descubre que existen organizaciones secretas, pociones misteriosas y artefactos sellados capaces de otorgar poderes extraordinarios. Mientras investiga su nueva identidad, se adentra en una conspiración que conecta a seres sobrenaturales, antiguas civilizaciones y entidades cuya existencia puede poner en peligro la cordura y el destino de la humanidad.",
+  "valoracion": 9.0,
+  "genero": [
+    "Fantasía oscura",
+    "Misterio",
+    "Sobrenatural",
+    "Terror cósmico"
+  ]
 }
   ]
 }
