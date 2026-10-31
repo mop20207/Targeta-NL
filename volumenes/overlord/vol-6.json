@@ -1,7 +1,7 @@
 {
-  "volumen_3": {
-    "imagen": "",
-    "titulo": "",
+  "volumen_6": {
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEC4AkfammzD1xZmGkSibWTjWZtcUhy6eojgOo8hRuCA&s=10",
+    "titulo": "Los Hombres del Reino Parte 2",
     "capitulos": {
       "capitulo_1": {
         "imagen": "",
@@ -9,8 +9,7 @@
         "partes": {
           "parte_1": "",
           "parte_2": "",
-          "parte_3": "",
-          "parte_4": ""
+          "parte_3": ""
         }
       },
       "capitulo_2": {
