@@ -1,1 +1,60 @@
-{}
+{
+  "volumen_7": {
+    "imagen": "",
+    "titulo": "Los Hombres del Reino Parte 2",
+    "capitulos": {
+      "capitulo_1": {
+        "imagen": "",
+        "titulo": "",
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": ""
+        }
+      },
+      "capitulo_2": {
+        "imagen": "",
+        "titulo": "",
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": ""
+        }
+      },
+      "capitulo_3": {
+        "imagen": "",
+        "titulo": "",
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": "",
+          "parte_5": ""
+        }
+      },
+      "capitulo_4": {
+        "imagen": "",
+        "titulo": "",
+        "partes": {
+          "parte_1": "",
+          "parte_2": ""
+        }
+      },
+      "capitulo_5": {
+        "imagen": "",
+        "titulo": "",
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": ""
+        }
+      }
+    },
+    "intermedio": "",
+    "epilogo": "",
+    "palabras_finales_ilustraciones": ""
+  }
+}
+
