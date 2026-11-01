@@ -1,0 +1,30 @@
+Re:Zero - Volumen 4
+Ilustraciones extraídas del PDF proporcionado.
+
+Se extrajeron las imágenes originales incrustadas en el PDF, sin volver a capturarlas de pantalla.
+Los números de página corresponden a las páginas del PDF (contando desde la portada).
+
+Contenido:
+
+ilustraciones_iniciales/
+- rezero_vol4_pagina_004.jpg (página 4)
+- rezero_vol4_pagina_005.jpg (página 5)
+- rezero_vol4_pagina_006.jpg (página 6)
+- rezero_vol4_pagina_007.jpg (página 7)
+- rezero_vol4_pagina_008.jpg (página 8)
+
+ilustraciones_interior/
+- rezero_vol4_pagina_036.jpg (página 36)
+- rezero_vol4_pagina_067.jpg (página 67)
+- rezero_vol4_pagina_103.jpg (página 103)
+- rezero_vol4_pagina_175.jpg (página 175)
+- rezero_vol4_pagina_201.jpg (página 201)
+- rezero_vol4_pagina_213.jpg (página 213)
+- rezero_vol4_pagina_242.jpg (página 242)
+- rezero_vol4_pagina_284.jpg (página 284)
+- rezero_vol4_pagina_358.jpg (página 358)
+- rezero_vol4_pagina_382.jpg (página 382)
+
+ilustraciones_extras/
+- rezero_vol4_pagina_399.jpg (página 399)
+- rezero_vol4_pagina_400.jpg (página 400)
