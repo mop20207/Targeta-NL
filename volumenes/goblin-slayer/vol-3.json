@@ -25,21 +25,16 @@
         "partes": {}
       },
       "capitulo_5": {
-        "titulo": "De los dioses creando un nuevo escenario",
-        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-126.jpg",
-        "partes": {}
-      },
-      "capitulo_6": {
         "titulo": "Un escenario desbaratado",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-139.jpg",
         "partes": {}
       },
-      "capitulo_7": {
+      "capitulo_6": {
         "titulo": "Los siete poderes",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-170.jpg",
         "partes": {}
       },
-      "capitulo_8": {
+      "capitulo_7": {
         "titulo": "Apreciando los días sencillos",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-176.jpg",
         "partes": {}
@@ -50,15 +45,18 @@
         "titulo": "De una mujer sorprendentemente problemática"
       },
       "interludio_2": {
-        "titulo": "De la preparación para la fiesta de este año"
+        "titulo": "De la preocupación por la ofrenda de este año"
       },
       "interludio_3": {
         "titulo": "De los preparativos de la madre superiora para el Festival"
       },
       "interludio_4": {
-        "titulo": "De la mente maestra, bastante creído — Detrás de Escena"
+        "titulo": "De los dioses creando un nuevo escenario"
       },
       "interludio_5": {
+        "titulo": "De la mente maestra, bastante creído detrás de escena"
+      },
+      "interludio_6": {
         "titulo": "De la honorable heroína y su primer ataque espiritual"
       }
     },
