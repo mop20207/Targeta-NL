@@ -1,1 +1,67 @@
-{}
+{
+  "volumen_3": {
+    "imagen": "",
+    "titulo": "Goblin Slayer",
+    "prologo": "",
+    "capitulos": {
+      "capitulo_1": {
+        "titulo": "La Luna de la cosecha",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_2": {
+        "titulo": "La víspera del Festival",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_3": {
+        "titulo": "El festival de la cosecha trae sueños",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_4": {
+        "titulo": "Es tu sonrisa lo que importa",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_5": {
+        "titulo": "De los dioses creando un nuevo escenario",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_6": {
+        "titulo": "Un escenario desbaratado",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_7": {
+        "titulo": "Los siete poderes",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_8": {
+        "titulo": "Apreciando los días sencillos",
+        "imagen": "",
+        "partes": {}
+      }
+    },
+    "interludios": {
+      "interludio_1": {
+        "titulo": "De una mujer sorprendentemente problemática"
+      },
+      "interludio_2": {
+        "titulo": "De la preparación para la fiesta de este año"
+      },
+      "interludio_3": {
+        "titulo": "De los preparativos de la madre superiora para el Festival"
+      },
+      "interludio_4": {
+        "titulo": "De la mente maestra, bastante creído — Detrás de Escena"
+      },
+      "interludio_5": {
+        "titulo": "De la honorable heroína y su primer ataque espiritual"
+      }
+    },
+    "epilogo": ""
+  }
+}
