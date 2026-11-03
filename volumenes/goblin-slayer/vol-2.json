@@ -20,46 +20,41 @@
         "partes": {}
       },
       "capitulo_4": {
-        "titulo": "Del Joven Rey",
-        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-085.jpg",
-        "partes": {}
-      },
-      "capitulo_5": {
         "titulo": "Entre Aventuras",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-098.jpg",
         "partes": {}
       },
-      "capitulo_6": {
+      "capitulo_5": {
         "titulo": "Adelante hasta la muerte",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-133.jpg",
         "partes": {}
       },
-      "capitulo_7": {
+      "capitulo_6": {
         "titulo": "Aceptarlos",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-167.jpg",
         "partes": {}
       },
-      "capitulo_8": {
-        "titulo": "Susurros, Oraciones y Cuentos",
+      "capitulo_7": {
+        "titulo": "Susurros, Oraciones y Cantos",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-198.jpg",
         "partes": {}
       },
-      "capitulo_9": {
+      "capitulo_8": {
         "titulo": "Documentos monumentales",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-217.jpg",
         "partes": {}
       },
-      "capitulo_10": {
+      "capitulo_9": {
         "titulo": "El monstruo que no debe ser nombrado",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-224.jpg",
         "partes": {}
       },
-      "capitulo_11": {
+      "capitulo_10": {
         "titulo": "Las Ruinas de la Ciudad y trampas mágicas",
         "imagen": "",
         "partes": {}
       },
-      "capitulo_12": {
+      "capitulo_11": {
         "titulo": "Ahí van de regreso",
         "imagen": "",
         "partes": {}
@@ -73,10 +68,13 @@
         "titulo": "Entre ellas dos, entonces"
       },
       "interludio_3": {
-        "titulo": "De un aventurero bastante entrometido — Con otros aventureros"
+        "titulo": "Del Joven Rey"
       },
       "interludio_4": {
-        "titulo": "Del exterminio de la Sexta Maldita"
+        "titulo": "De un aventurero bastante entrometido con otros aventureros"
+      },
+      "interludio_5": {
+        "titulo": "Del exterminio de la Secta Maldita"
       }
     },
     "epilogo": "",
