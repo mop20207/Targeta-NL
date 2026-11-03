@@ -7,87 +7,52 @@
       "capitulo_1": {
         "titulo": "Del guerrero novato y la sacerdotisa aprendiz",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-028.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": ""
-        }
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "De cierto niño pequeño",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-054.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "De la mesera de la Taberna",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-073.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "De un nido de goblins perfectamente normal",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-085.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "De un día en que él no está",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-102.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "De la destrucción del templo de la perdición",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-121.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_7": {
         "titulo": "De la segunda vez que sus planes se vieron afectados",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-142.jpg",
-        "partes": {}
+        "contenido": ""
       },
       "capitulo_8": {
         "titulo": "El día ocioso de un Elfo",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-153.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_9": {
         "titulo": "De aquellos otros, hace unos meses",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-169.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_10": {
         "titulo": "De ti y volver una vez más",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-180.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       }
     },
     "interludios": {},
