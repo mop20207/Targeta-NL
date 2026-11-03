@@ -7,116 +7,67 @@
       "capitulo_1": {
         "titulo": "El destino de un grupo de Aventureros",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-006.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": "",
-          "parte_6": ""
-        }
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "La vida diaria de la Granjera",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-007.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": ""
-        }
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "Reflexiones de la Recepcionista",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-021.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "La fortaleza de la Montaña en llamas",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-062.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "Visitantes inesperados",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-090.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": ""
-        }
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "Compañeros de viaje",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-132.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_7": {
         "titulo": "Goblin Slayer",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-138.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_8": {
         "titulo": "Asesinando Goblins",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-163.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_9": {
         "titulo": "Los Fuertes",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-197.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_10": {
         "titulo": "Adormecido",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-208.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": ""
-        }
+        "contenido": ""
       },
       "capitulo_11": {
         "titulo": "Un grupo de Aventureros",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-226.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_12": {
         "titulo": "Sobre la colina de los Goblins",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-230.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       },
       "capitulo_13": {
         "titulo": "El destino de un Aventurero",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-1/vol-01-pagina-245.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": ""
-        }
+        "contenido": ""
       }
     },
     "interludios": {
