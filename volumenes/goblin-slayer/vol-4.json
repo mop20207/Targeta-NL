@@ -1,61 +1,76 @@
 {
   "volumen_4": {
-    "imagen": "",
+    "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-003.jpg",
     "titulo": "Goblin Slayer",
     "prologo": "",
     "capitulos": {
       "capitulo_1": {
         "titulo": "Del guerrero novato y la sacerdotisa aprendiz",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-028.jpg",
         "partes": {}
       },
       "capitulo_2": {
         "titulo": "De cierto niño pequeño",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-054.jpg",
         "partes": {}
       },
       "capitulo_3": {
         "titulo": "La mesera de la Taberna",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-073.jpg",
         "partes": {}
       },
       "capitulo_4": {
         "titulo": "De un nido de goblins perfectamente normal",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-085.jpg",
         "partes": {}
       },
       "capitulo_5": {
         "titulo": "De un día en que él no está",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-102.jpg",
         "partes": {}
       },
       "capitulo_6": {
         "titulo": "De la destrucción del templo de la perdición",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-121.jpg",
         "partes": {}
       },
       "capitulo_7": {
         "titulo": "De la segunda vez que sus planes se vieron afectados",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-142.jpg",
         "partes": {}
       },
       "capitulo_8": {
         "titulo": "El día ocioso de un Elfo",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-153.jpg",
         "partes": {}
       },
       "capitulo_9": {
         "titulo": "De aquellos otros, hace unos meses",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-169.jpg",
         "partes": {}
       },
       "capitulo_10": {
         "titulo": "De ti y volver una vez más",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-180.jpg",
         "partes": {}
       }
     },
     "interludios": {},
-    "epilogo": ""
+    "epilogo": "",
+    "ilustraciones": [
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-003.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-004.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-005.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-028.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-054.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-073.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-085.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-102.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-121.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-142.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-153.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-169.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-4/vol-04-pagina-180.jpg"
+    ]
   }
 }
