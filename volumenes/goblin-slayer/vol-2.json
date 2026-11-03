@@ -1,57 +1,57 @@
 {
   "volumen_2": {
-    "imagen": "",
+    "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-003.jpg",
     "titulo": "Goblin Slayer",
     "prologo": "",
     "capitulos": {
       "capitulo_1": {
         "titulo": "Aventuras y la Vida Cotidiana",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-023.jpg",
         "partes": {}
       },
       "capitulo_2": {
         "titulo": "Goblin Slayer en la Ciudad de Agua",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-036.jpg",
         "partes": {}
       },
       "capitulo_3": {
         "titulo": "Encuentro Inesperado",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-044.jpg",
         "partes": {}
       },
       "capitulo_4": {
         "titulo": "Del Joven Rey",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-085.jpg",
         "partes": {}
       },
       "capitulo_5": {
         "titulo": "Entre Aventuras",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-098.jpg",
         "partes": {}
       },
       "capitulo_6": {
         "titulo": "Adelante hasta la muerte",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-133.jpg",
         "partes": {}
       },
       "capitulo_7": {
         "titulo": "Aceptarlos",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-167.jpg",
         "partes": {}
       },
       "capitulo_8": {
         "titulo": "Susurros, Oraciones y Cuentos",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-198.jpg",
         "partes": {}
       },
       "capitulo_9": {
         "titulo": "Documentos monumentales",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-217.jpg",
         "partes": {}
       },
       "capitulo_10": {
         "titulo": "El monstruo que no debe ser nombrado",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-224.jpg",
         "partes": {}
       },
       "capitulo_11": {
@@ -79,6 +79,21 @@
         "titulo": "Del exterminio de la Sexta Maldita"
       }
     },
-    "epilogo": ""
+    "epilogo": "",
+    "ilustraciones": [
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-003.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-004.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-005.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-023.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-036.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-044.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-085.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-098.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-133.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-167.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-198.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-217.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-224.jpg"
+    ]
   }
 }
