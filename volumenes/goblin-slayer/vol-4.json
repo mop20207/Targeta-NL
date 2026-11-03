@@ -1,1 +1,61 @@
-{}
+{
+  "volumen_4": {
+    "imagen": "",
+    "titulo": "Goblin Slayer",
+    "prologo": "",
+    "capitulos": {
+      "capitulo_1": {
+        "titulo": "Del guerrero novato y la sacerdotisa aprendiz",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_2": {
+        "titulo": "De cierto niño pequeño",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_3": {
+        "titulo": "La mesera de la Taberna",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_4": {
+        "titulo": "De un nido de goblins perfectamente normal",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_5": {
+        "titulo": "De un día en que él no está",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_6": {
+        "titulo": "De la destrucción del templo de la perdición",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_7": {
+        "titulo": "De la segunda vez que sus planes se vieron afectados",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_8": {
+        "titulo": "El día ocioso de un Elfo",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_9": {
+        "titulo": "De aquellos otros, hace unos meses",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_10": {
+        "titulo": "De ti y volver una vez más",
+        "imagen": "",
+        "partes": {}
+      }
+    },
+    "interludios": {},
+    "epilogo": ""
+  }
+}
