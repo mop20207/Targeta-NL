@@ -7,74 +7,37 @@
       "capitulo_1": {
         "titulo": "La Luna de la cosecha",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-021.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": ""
-        }
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "La víspera del Festival",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-040.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": "",
-          "parte_6": "",
-          "parte_7": ""
-        }
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "El festival de la cosecha trae sueños",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-051.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": ""
-        }
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "Es tu sonrisa lo que importa",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-096.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": ""
-        }
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "Un escenario desbaratado",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-139.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": ""
-        }
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "Los siete poderes",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-170.jpg",
-        "partes": {
-          "parte_1": "",
-          "parte_2": "",
-          "parte_3": "",
-          "parte_4": "",
-          "parte_5": "",
-          "parte_6": ""
-        }
+        "contenido": ""
       },
       "capitulo_7": {
         "titulo": "Apreciando los días sencillos",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-176.jpg",
-        "partes": {}
+        "contenido": ""
       }
     },
     "interludios": {
