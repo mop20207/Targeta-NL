@@ -1,47 +1,47 @@
 {
   "volumen_3": {
-    "imagen": "",
+    "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-003.jpg",
     "titulo": "Goblin Slayer",
     "prologo": "",
     "capitulos": {
       "capitulo_1": {
         "titulo": "La Luna de la cosecha",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-021.jpg",
         "partes": {}
       },
       "capitulo_2": {
         "titulo": "La víspera del Festival",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-040.jpg",
         "partes": {}
       },
       "capitulo_3": {
         "titulo": "El festival de la cosecha trae sueños",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-051.jpg",
         "partes": {}
       },
       "capitulo_4": {
         "titulo": "Es tu sonrisa lo que importa",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-096.jpg",
         "partes": {}
       },
       "capitulo_5": {
         "titulo": "De los dioses creando un nuevo escenario",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-126.jpg",
         "partes": {}
       },
       "capitulo_6": {
         "titulo": "Un escenario desbaratado",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-139.jpg",
         "partes": {}
       },
       "capitulo_7": {
         "titulo": "Los siete poderes",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-170.jpg",
         "partes": {}
       },
       "capitulo_8": {
         "titulo": "Apreciando los días sencillos",
-        "imagen": "",
+        "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-176.jpg",
         "partes": {}
       }
     },
@@ -62,6 +62,21 @@
         "titulo": "De la honorable heroína y su primer ataque espiritual"
       }
     },
-    "epilogo": ""
+    "epilogo": "",
+    "ilustraciones": [
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-003.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-004.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-005.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-021.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-040.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-051.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-096.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-126.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-139.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-170.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-176.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-184.jpg",
+      "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-3/vol-03-pagina-187.jpg"
+    ]
   }
 }
