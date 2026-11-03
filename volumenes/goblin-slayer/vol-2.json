@@ -1,1 +1,84 @@
-{}
+{
+  "volumen_2": {
+    "imagen": "",
+    "titulo": "Goblin Slayer",
+    "prologo": "",
+    "capitulos": {
+      "capitulo_1": {
+        "titulo": "Aventuras y la Vida Cotidiana",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_2": {
+        "titulo": "Goblin Slayer en la Ciudad de Agua",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_3": {
+        "titulo": "Encuentro Inesperado",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_4": {
+        "titulo": "Del Joven Rey",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_5": {
+        "titulo": "Entre Aventuras",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_6": {
+        "titulo": "Adelante hasta la muerte",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_7": {
+        "titulo": "Aceptarlos",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_8": {
+        "titulo": "Susurros, Oraciones y Cuentos",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_9": {
+        "titulo": "Documentos monumentales",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_10": {
+        "titulo": "El monstruo que no debe ser nombrado",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_11": {
+        "titulo": "Las Ruinas de la Ciudad y trampas mágicas",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_12": {
+        "titulo": "Ahí van de regreso",
+        "imagen": "",
+        "partes": {}
+      }
+    },
+    "interludios": {
+      "interludio_1": {
+        "titulo": "De los Dioses que se divierten"
+      },
+      "interludio_2": {
+        "titulo": "Entre ellas dos, entonces"
+      },
+      "interludio_3": {
+        "titulo": "De un aventurero bastante entrometido — Con otros aventureros"
+      },
+      "interludio_4": {
+        "titulo": "Del exterminio de la Sexta Maldita"
+      }
+    },
+    "epilogo": ""
+  }
+}
