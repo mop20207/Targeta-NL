@@ -7,27 +7,50 @@
       "capitulo_1": {
         "titulo": "Aventuras y la Vida Cotidiana",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-023.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": "",
+          "parte_5": ""
+        }
       },
       "capitulo_2": {
         "titulo": "Goblin Slayer en la Ciudad de Agua",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-036.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": ""
+        }
       },
       "capitulo_3": {
         "titulo": "Encuentro Inesperado",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-044.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": ""
+        }
       },
       "capitulo_4": {
         "titulo": "Entre Aventuras",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-098.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": ""
+        }
       },
       "capitulo_5": {
         "titulo": "Adelante hasta la muerte",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-133.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": ""
+        }
       },
       "capitulo_6": {
         "titulo": "Aceptarlos",
@@ -42,22 +65,38 @@
       "capitulo_8": {
         "titulo": "Documentos monumentales",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-217.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": "",
+          "parte_4": ""
+        }
       },
       "capitulo_9": {
         "titulo": "El monstruo que no debe ser nombrado",
         "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/goblin-slayer/goblin-slayer/vol-2/vol-02-pagina-224.jpg",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": ""
+        }
       },
       "capitulo_10": {
         "titulo": "Las Ruinas de la Ciudad y trampas mágicas",
         "imagen": "",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": "",
+          "parte_3": ""
+        }
       },
       "capitulo_11": {
         "titulo": "Ahí van de regreso",
         "imagen": "",
-        "partes": {}
+        "partes": {
+          "parte_1": "",
+          "parte_2": ""
+        }
       }
     },
     "interludios": {
