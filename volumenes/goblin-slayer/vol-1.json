@@ -1,1 +1,89 @@
-{}
+{
+  "volumen_1": {
+    "imagen": "",
+    "titulo": "Goblin Slayer",
+    "prologo": "",
+    "capitulos": {
+      "capitulo_1": {
+        "titulo": "El destino de un grupo de Aventureros",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_2": {
+        "titulo": "La vida diaria de la Granjera",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_3": {
+        "titulo": "Reflexiones de la Recepcionista",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_4": {
+        "titulo": "La fortaleza de la Montaña en llamas",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_5": {
+        "titulo": "Visitantes inesperados",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_6": {
+        "titulo": "Compañeros de viaje",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_7": {
+        "titulo": "Goblin Slayer",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_8": {
+        "titulo": "Asesinando Goblins",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_9": {
+        "titulo": "Los Fuertes",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_10": {
+        "titulo": "Adormecido",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_11": {
+        "titulo": "Un grupo de Aventureros",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_12": {
+        "titulo": "Sobre la colina de los Goblins",
+        "imagen": "",
+        "partes": {}
+      },
+      "capitulo_13": {
+        "titulo": "El destino de un Aventurero",
+        "imagen": "",
+        "partes": {}
+      }
+    },
+    "interludios": {
+      "interludio_1": {
+        "titulo": "Dioses que se divierten"
+      },
+      "interludio_2": {
+        "titulo": "El recepcionista"
+      },
+      "interludio_3": {
+        "titulo": "El guerrero pesado"
+      },
+      "interludio_4": {
+        "titulo": "El Héroe"
+      }
+    },
+    "epilogo": ""
+  }
+}
