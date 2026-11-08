@@ -23,6 +23,10 @@
         "titulo": "Las Audiencias",
         "imagen": "imagenes/volumen-8/capitulo-4.jpg"
       }
+    },
+    "epilogo": {
+      "titulo": "Instrucciones Finales",
+      "imagen": "imagenes/volumen-8/epilogo.jpg"
     }
   }
 }
