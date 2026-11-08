@@ -1,0 +1,34 @@
+{
+  "id": "tensei-shitara-slime-datta-ken",
+  "serie_id": "that-time-i-got-reincarnated-as-a-slime",
+  "nombre": "Tensei Shitara Slime Datta Ken",
+  "volumenes": [
+    {
+      "numero": 7,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 7",
+      "imagen": "imagenes/volumen-07/portada.jpg",
+      "capitulos": [],
+      "secciones": [
+        {
+          "tipo": "prologo",
+          "titulo": "El Memorial de los Demonios",
+          "pagina_pdf": 9
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 8",
+      "imagen": "imagenes/volumen-08/portada.jpg",
+      "capitulos": [],
+      "secciones": [
+        {
+          "tipo": "prologo",
+          "titulo": "Reporte de Estado",
+          "pagina_pdf": 7
+        }
+      ]
+    }
+  ],
+  "nota": "Estructura inicial basada en los PDF. Los campos de imagen son rutas previstas; los archivos de imagen deben subirse a esas rutas. Los títulos/páginas no listados aún requieren completar el índice."
+}
