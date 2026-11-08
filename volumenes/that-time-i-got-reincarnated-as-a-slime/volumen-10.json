@@ -27,6 +27,16 @@
         "titulo": "La Trampa de la Codicia",
         "imagen": "imagenes/volumen-10/capitulo-5.jpg"
       }
+    },
+    "intermedios": {
+      "intermedio_1": {
+        "titulo": "Maribell",
+        "imagen": "imagenes/volumen-10/intermedio-1.jpg"
+      }
+    },
+    "epilogo": {
+      "titulo": "El que ríe al Último",
+      "imagen": "imagenes/volumen-10/epilogo.jpg"
     }
   }
 }
