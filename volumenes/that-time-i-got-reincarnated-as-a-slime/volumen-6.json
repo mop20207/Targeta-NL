@@ -2,37 +2,35 @@
   "volumen_6": {
     "titulo": "Tensei Shitara Slime Datta Ken Volumen 6",
     "imagen": "imagenes/volumen-6/portada.jpg",
-    "capitulos": [
-      {
+    "prologo": {
+      "titulo": "La Artimaña de los Demonios",
+      "imagen": "imagenes/volumen-6/prologo.jpg"
+    },
+    "capitulos": {
+      "capitulo_1": {
         "titulo": "La Cumbre entre el Monstruo y el Hombre",
-        "imagen": "imagenes/volumen-6/capitulo-1.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-1.jpg"
       },
-      {
+      "capitulo_2": {
         "titulo": "El Aviso de Ramiris",
-        "imagen": "imagenes/volumen-6/capitulo-2.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-2.jpg"
       },
-      {
+      "capitulo_3": {
         "titulo": "Víspera de una Batalla",
-        "imagen": "imagenes/volumen-6/capitulo-3.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-3.jpg"
       },
-      {
+      "capitulo_4": {
         "titulo": "En la Tierra del Destino",
-        "imagen": "imagenes/volumen-6/capitulo-4.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-4.jpg"
       },
-      {
+      "capitulo_5": {
         "titulo": "Walpurgis",
-        "imagen": "imagenes/volumen-6/capitulo-5.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-5.jpg"
       },
-      {
+      "capitulo_6": {
         "titulo": "El Octagrama",
-        "imagen": "imagenes/volumen-6/capitulo-6.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-6/capitulo-6.jpg"
       }
-    ]
+    }
   }
 }
