@@ -4,29 +4,35 @@
     "imagen": "imagenes/volumen-8/portada.jpg",
     "prologo": {
       "titulo": "Reporte de Estado",
-      "imagen": "imagenes/volumen-8/prologo.jpg"
+      "imagen": "imagenes/volumen-8/prologo.jpg",
+      "contenido": ""
     },
     "capitulos": {
       "capitulo_1": {
         "titulo": "Reconciliación y Acuerdo",
-        "imagen": "imagenes/volumen-8/capitulo-1.jpg"
+        "imagen": "imagenes/volumen-8/capitulo-1.jpg",
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "Los Invitados",
-        "imagen": "imagenes/volumen-8/capitulo-2.jpg"
+        "imagen": "imagenes/volumen-8/capitulo-2.jpg",
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "Los Preparativos",
-        "imagen": "imagenes/volumen-8/capitulo-3.jpg"
+        "imagen": "imagenes/volumen-8/capitulo-3.jpg",
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "Las Audiencias",
-        "imagen": "imagenes/volumen-8/capitulo-4.jpg"
+        "imagen": "imagenes/volumen-8/capitulo-4.jpg",
+        "contenido": ""
       }
     },
     "epilogo": {
       "titulo": "Instrucciones Finales",
-      "imagen": "imagenes/volumen-8/epilogo.jpg"
+      "imagen": "imagenes/volumen-8/epilogo.jpg",
+      "contenido": ""
     }
   }
 }
