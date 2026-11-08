@@ -1,0 +1,48 @@
+{
+  "volumen_2": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 2",
+    "imagen": "imagenes/volumen-2/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "El inicio del caos",
+        "imagen": "imagenes/volumen-2/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Evoluciones y choques",
+        "imagen": "imagenes/volumen-2/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El enviado y la reunión",
+        "imagen": "imagenes/volumen-2/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Desconectando engranajes",
+        "imagen": "imagenes/volumen-2/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El gran choque",
+        "imagen": "imagenes/volumen-2/capitulo-5.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El devorador de todo",
+        "imagen": "imagenes/volumen-2/capitulo-6.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La gran alianza del bosque de Jura",
+        "imagen": "imagenes/volumen-2/capitulo-7.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Un lugar relajante",
+        "imagen": "imagenes/volumen-2/capitulo-8.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
