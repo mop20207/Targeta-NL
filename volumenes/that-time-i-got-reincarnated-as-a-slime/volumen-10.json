@@ -1,0 +1,33 @@
+{
+  "volumen_10": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 10",
+    "imagen": "imagenes/volumen-10/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "El Enérgico Negocio del Laberinto",
+        "imagen": "imagenes/volumen-10/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Días Animados",
+        "imagen": "imagenes/volumen-10/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El Consejo",
+        "imagen": "imagenes/volumen-10/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Tras el Telón",
+        "imagen": "imagenes/volumen-10/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Trampa de la Codicia",
+        "imagen": "imagenes/volumen-10/capitulo-5.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
