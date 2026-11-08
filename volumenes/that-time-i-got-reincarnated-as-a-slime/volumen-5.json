@@ -27,6 +27,10 @@
         "titulo": "Los Desatados",
         "imagen": "imagenes/volumen-5/capitulo-5.jpg"
       }
+    },
+    "epilogo": {
+      "titulo": "El que Mueve los Hilos en la Oscuridad",
+      "imagen": "imagenes/volumen-5/epilogo.jpg"
     }
   }
 }
