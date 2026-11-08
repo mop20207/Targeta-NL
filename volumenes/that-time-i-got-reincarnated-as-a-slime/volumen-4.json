@@ -2,42 +2,39 @@
   "volumen_4": {
     "titulo": "Tensei Shitara Slime Datta Ken Volumen 4",
     "imagen": "imagenes/volumen-4/portada.jpg",
-    "capitulos": [
-      {
+    "prologo": {
+      "titulo": "Belleza en Acción",
+      "imagen": "imagenes/volumen-4/prologo.jpg"
+    },
+    "capitulos": {
+      "capitulo_1": {
         "titulo": "Negociando con el Reino de las Bestias",
-        "imagen": "imagenes/volumen-4/capitulo-1.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-1.jpg"
       },
-      {
+      "capitulo_2": {
         "titulo": "La Invitación del Rey Gazel",
-        "imagen": "imagenes/volumen-4/capitulo-2.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-2.jpg"
       },
-      {
+      "capitulo_3": {
         "titulo": "Hacia Tierras Humanas",
-        "imagen": "imagenes/volumen-4/capitulo-3.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-3.jpg"
       },
-      {
+      "capitulo_4": {
         "titulo": "El Reino de Blumund",
-        "imagen": "imagenes/volumen-4/capitulo-4.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-4.jpg"
       },
-      {
+      "capitulo_5": {
         "titulo": "Los Niños Invocados",
-        "imagen": "imagenes/volumen-4/capitulo-5.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-5.jpg"
       },
-      {
+      "capitulo_6": {
         "titulo": "Conquistando el Laberinto",
-        "imagen": "imagenes/volumen-4/capitulo-6.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-6.jpg"
       },
-      {
+      "capitulo_7": {
         "titulo": "Almas Rescatadas",
-        "imagen": "imagenes/volumen-4/capitulo-7.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-4/capitulo-7.jpg"
       }
-    ]
+    }
   }
 }
