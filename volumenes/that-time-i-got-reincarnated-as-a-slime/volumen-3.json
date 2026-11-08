@@ -1,0 +1,33 @@
+{
+  "volumen_3": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 3",
+    "imagen": "imagenes/volumen-3/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "El Nombre de una Nación",
+        "imagen": "imagenes/volumen-3/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Invasión de la Reina Demonio",
+        "imagen": "imagenes/volumen-3/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Congregación",
+        "imagen": "imagenes/volumen-3/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Malicia que Avanza",
+        "imagen": "imagenes/volumen-3/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Charybdis",
+        "imagen": "imagenes/volumen-3/capitulo-5.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
