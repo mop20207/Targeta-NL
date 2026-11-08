@@ -5,35 +5,43 @@
     "capitulos": {
       "capitulo_1": {
         "titulo": "El inicio del caos",
-        "imagen": "imagenes/volumen-2/capitulo-1.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-1.jpg",
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "Evoluciones y choques",
-        "imagen": "imagenes/volumen-2/capitulo-2.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-2.jpg",
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "El enviado y la reunión",
-        "imagen": "imagenes/volumen-2/capitulo-3.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-3.jpg",
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "Desconectando engranajes",
-        "imagen": "imagenes/volumen-2/capitulo-4.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-4.jpg",
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "El gran choque",
-        "imagen": "imagenes/volumen-2/capitulo-5.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-5.jpg",
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "El devorador de todo",
-        "imagen": "imagenes/volumen-2/capitulo-6.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-6.jpg",
+        "contenido": ""
       },
       "capitulo_7": {
         "titulo": "La gran alianza del bosque de Jura",
-        "imagen": "imagenes/volumen-2/capitulo-7.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-7.jpg",
+        "contenido": ""
       },
       "capitulo_8": {
         "titulo": "Un lugar relajante",
-        "imagen": "imagenes/volumen-2/capitulo-8.jpg"
+        "imagen": "imagenes/volumen-2/capitulo-8.jpg",
+        "contenido": ""
       }
     }
   }
