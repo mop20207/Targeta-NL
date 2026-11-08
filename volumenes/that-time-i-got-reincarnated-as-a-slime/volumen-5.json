@@ -1,0 +1,33 @@
+{
+  "volumen_5": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 5",
+    "imagen": "imagenes/volumen-5/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "Días Tranquilos",
+        "imagen": "imagenes/volumen-5/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Preludio de una Calamidad",
+        "imagen": "imagenes/volumen-5/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Desesperación y Esperanza",
+        "imagen": "imagenes/volumen-5/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El Nacimiento de un Rey Demonio",
+        "imagen": "imagenes/volumen-5/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Los Desatados",
+        "imagen": "imagenes/volumen-5/capitulo-5.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
