@@ -2,32 +2,51 @@
   "volumen_1": {
     "titulo": "Tensei Shitara Slime Datta Ken Volumen 1",
     "imagen": "imagenes/volumen-1/portada.jpg",
-    "capitulos": [
-      {
+    "prologo": {
+      "titulo": "Muerte y reencarnación",
+      "imagen": "imagenes/volumen-1/prologo.jpg"
+    },
+    "capitulos": {
+      "capitulo_1": {
         "titulo": "Mi primer amigo",
-        "imagen": "imagenes/volumen-1/capitulo-1.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-1/capitulo-1.jpg"
       },
-      {
+      "capitulo_2": {
         "titulo": "Batalla de la aldea goblin",
-        "imagen": "imagenes/volumen-1/capitulo-2.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-1/capitulo-2.jpg"
       },
-      {
+      "capitulo_3": {
         "titulo": "A través del Reino Enano",
-        "imagen": "imagenes/volumen-1/capitulo-3.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-1/capitulo-3.jpg"
       },
-      {
+      "capitulo_4": {
         "titulo": "La conquistadora de llamas",
-        "imagen": "imagenes/volumen-1/capitulo-4.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-1/capitulo-4.jpg"
       },
-      {
+      "capitulo_5": {
         "titulo": "La forma heredada",
-        "imagen": "imagenes/volumen-1/capitulo-5.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-1/capitulo-5.jpg"
       }
-    ]
+    },
+    "intermedios": {
+      "intermedio_1": {
+        "titulo": "La chica y el Lord Demonio",
+        "imagen": "imagenes/volumen-1/intermedio-1.jpg"
+      },
+      "intermedio_2": {
+        "titulo": "La chica y el Titán",
+        "imagen": "imagenes/volumen-1/intermedio-2.jpg"
+      },
+      "intermedio_3": {
+        "titulo": "La chica y la Héroe",
+        "imagen": "imagenes/volumen-1/intermedio-3.jpg"
+      }
+    },
+    "historias_paralelas": {
+      "historia_1": {
+        "titulo": "La gran aventura de Gobta",
+        "imagen": "imagenes/volumen-1/historia-1.jpg"
+      }
+    }
   }
 }
