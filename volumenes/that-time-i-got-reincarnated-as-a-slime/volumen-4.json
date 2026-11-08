@@ -35,6 +35,10 @@
         "titulo": "Almas Rescatadas",
         "imagen": "imagenes/volumen-4/capitulo-7.jpg"
       }
+    },
+    "epilogo": {
+      "titulo": "El Enemigo Natural de los Monstruos",
+      "imagen": "imagenes/volumen-4/epilogo.jpg"
     }
   }
 }
