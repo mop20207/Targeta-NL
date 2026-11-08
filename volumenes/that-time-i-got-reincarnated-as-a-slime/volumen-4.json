@@ -4,41 +4,50 @@
     "imagen": "imagenes/volumen-4/portada.jpg",
     "prologo": {
       "titulo": "Belleza en Acción",
-      "imagen": "imagenes/volumen-4/prologo.jpg"
+      "imagen": "imagenes/volumen-4/prologo.jpg",
+      "contenido": ""
     },
     "capitulos": {
       "capitulo_1": {
         "titulo": "Negociando con el Reino de las Bestias",
-        "imagen": "imagenes/volumen-4/capitulo-1.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-1.jpg",
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "La Invitación del Rey Gazel",
-        "imagen": "imagenes/volumen-4/capitulo-2.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-2.jpg",
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "Hacia Tierras Humanas",
-        "imagen": "imagenes/volumen-4/capitulo-3.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-3.jpg",
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "El Reino de Blumund",
-        "imagen": "imagenes/volumen-4/capitulo-4.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-4.jpg",
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "Los Niños Invocados",
-        "imagen": "imagenes/volumen-4/capitulo-5.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-5.jpg",
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "Conquistando el Laberinto",
-        "imagen": "imagenes/volumen-4/capitulo-6.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-6.jpg",
+        "contenido": ""
       },
       "capitulo_7": {
         "titulo": "Almas Rescatadas",
-        "imagen": "imagenes/volumen-4/capitulo-7.jpg"
+        "imagen": "imagenes/volumen-4/capitulo-7.jpg",
+        "contenido": ""
       }
     },
     "epilogo": {
       "titulo": "El Enemigo Natural de los Monstruos",
-      "imagen": "imagenes/volumen-4/epilogo.jpg"
+      "imagen": "imagenes/volumen-4/epilogo.jpg",
+      "contenido": ""
     }
   }
 }
