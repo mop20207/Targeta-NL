@@ -1,0 +1,28 @@
+{
+  "volumen_8": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 8",
+    "imagen": "imagenes/volumen-8/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "Reconciliación y Acuerdo",
+        "imagen": "imagenes/volumen-8/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Los Invitados",
+        "imagen": "imagenes/volumen-8/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Los Preparativos",
+        "imagen": "imagenes/volumen-8/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Las Audiencias",
+        "imagen": "imagenes/volumen-8/capitulo-4.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
