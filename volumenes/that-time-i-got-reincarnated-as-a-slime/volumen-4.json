@@ -1,0 +1,43 @@
+{
+  "volumen_4": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 4",
+    "imagen": "imagenes/volumen-4/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "Negociando con el Reino de las Bestias",
+        "imagen": "imagenes/volumen-4/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Invitación del Rey Gazel",
+        "imagen": "imagenes/volumen-4/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Hacia Tierras Humanas",
+        "imagen": "imagenes/volumen-4/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El Reino de Blumund",
+        "imagen": "imagenes/volumen-4/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Los Niños Invocados",
+        "imagen": "imagenes/volumen-4/capitulo-5.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Conquistando el Laberinto",
+        "imagen": "imagenes/volumen-4/capitulo-6.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Almas Rescatadas",
+        "imagen": "imagenes/volumen-4/capitulo-7.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
