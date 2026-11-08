@@ -31,6 +31,16 @@
         "titulo": "Dioses y Reyes Demonio",
         "imagen": "imagenes/volumen-7/capitulo-6.jpg"
       }
+    },
+    "intermedios": {
+      "intermedio_1": {
+        "titulo": "Una Conversación Privada",
+        "imagen": "imagenes/volumen-7/intermedio-1.jpg"
+      }
+    },
+    "epilogo": {
+      "titulo": "Una nueva Relación",
+      "imagen": "imagenes/volumen-7/epilogo.jpg"
     }
   }
 }
