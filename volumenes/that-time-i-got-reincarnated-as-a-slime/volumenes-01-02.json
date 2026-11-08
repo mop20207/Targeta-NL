@@ -1,0 +1,91 @@
+{
+  "id": "tensei-shitara-slime-datta-ken",
+  "serie_id": "that-time-i-got-reincarnated-as-a-slime",
+  "nombre": "Tensei Shitara Slime Datta Ken",
+  "volumenes": [
+    {
+      "numero": 1,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 1",
+      "imagen": "imagenes/volumen-01/portada.jpg",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "titulo": "Mi primer amigo",
+          "imagen": "imagenes/volumen-01/capitulos/mi-primer-amigo.jpg",
+          "pagina_pdf": 18
+        },
+        {
+          "tipo": "capitulo",
+          "titulo": "Batalla de la aldea goblin",
+          "imagen": "imagenes/volumen-01/capitulos/batalla-de-la-aldea-goblin.jpg",
+          "pagina_pdf": 99
+        },
+        {
+          "tipo": "capitulo",
+          "titulo": "A través del Reino Enano",
+          "imagen": "imagenes/volumen-01/capitulos/a-traves-del-reino-enano.jpg",
+          "pagina_pdf": 183
+        },
+        {
+          "tipo": "capitulo",
+          "titulo": "La conquistadora de llamas",
+          "imagen": "imagenes/volumen-01/capitulos/la-conquistadora-de-llamas.jpg",
+          "pagina_pdf": 296
+        },
+        {
+          "tipo": "capitulo_final",
+          "titulo": "La forma heredada",
+          "imagen": "imagenes/volumen-01/capitulos/la-forma-heredada.jpg",
+          "pagina_pdf": 376
+        }
+      ],
+      "secciones": [
+        {
+          "tipo": "prologo",
+          "titulo": "Muerte y reencarnación",
+          "pagina_pdf": 7
+        },
+        {
+          "tipo": "intermedio",
+          "titulo": "La chica y el Lord Demonio",
+          "pagina_pdf": 90
+        },
+        {
+          "tipo": "intermedio",
+          "titulo": "La chica y el Titán",
+          "pagina_pdf": 169
+        },
+        {
+          "tipo": "intermedio",
+          "titulo": "La chica y la Héroe",
+          "pagina_pdf": 282
+        },
+        {
+          "tipo": "historia_paralela",
+          "titulo": "La gran aventura de Gobta",
+          "pagina_pdf": 389
+        },
+        {
+          "tipo": "afterword",
+          "titulo": "Afterword",
+          "pagina_pdf": 429
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 2",
+      "imagen": "imagenes/volumen-02/portada.jpg",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "titulo": "El inicio del caos",
+          "imagen": "imagenes/volumen-02/capitulos/el-inicio-del-caos.jpg",
+          "pagina_pdf": 9
+        }
+      ],
+      "secciones": []
+    }
+  ],
+  "nota": "Estructura inicial basada en los PDF. Los campos de imagen son rutas previstas; los archivos de imagen deben subirse a esas rutas. Los títulos/páginas no listados aún requieren completar el índice."
+}
