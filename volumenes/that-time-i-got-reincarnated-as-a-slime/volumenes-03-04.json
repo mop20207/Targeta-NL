@@ -1,0 +1,41 @@
+{
+  "id": "tensei-shitara-slime-datta-ken",
+  "serie_id": "that-time-i-got-reincarnated-as-a-slime",
+  "nombre": "Tensei Shitara Slime Datta Ken",
+  "volumenes": [
+    {
+      "numero": 3,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 3",
+      "imagen": "imagenes/volumen-03/portada.jpg",
+      "capitulos": [],
+      "secciones": [
+        {
+          "tipo": "prologo",
+          "titulo": "Cumbre de Reyes Demonio",
+          "pagina_pdf": 6
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Tensei Shitara Slime Datta Ken — Volumen 4",
+      "imagen": "imagenes/volumen-04/portada.jpg",
+      "capitulos": [
+        {
+          "tipo": "capitulo",
+          "titulo": "Negociando con el Reino de las Bestias",
+          "imagen": "imagenes/volumen-04/capitulos/negociando-con-el-reino-de-las-bestias.jpg",
+          "pagina_pdf": 10
+        }
+      ],
+      "secciones": [
+        {
+          "tipo": "prologo",
+          "titulo": "Belleza en Acción",
+          "pagina_pdf": 6
+        }
+      ]
+    }
+  ],
+  "nota": "Estructura inicial basada en los PDF. Los campos de imagen son rutas previstas; los archivos de imagen deben subirse a esas rutas. Los títulos/páginas no listados aún requieren completar el índice."
+}
