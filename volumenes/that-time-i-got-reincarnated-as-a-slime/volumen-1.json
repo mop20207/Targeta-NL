@@ -1,0 +1,33 @@
+{
+  "volumen_1": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 1",
+    "imagen": "imagenes/volumen-1/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "Mi primer amigo",
+        "imagen": "imagenes/volumen-1/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Batalla de la aldea goblin",
+        "imagen": "imagenes/volumen-1/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "A través del Reino Enano",
+        "imagen": "imagenes/volumen-1/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La conquistadora de llamas",
+        "imagen": "imagenes/volumen-1/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La forma heredada",
+        "imagen": "imagenes/volumen-1/capitulo-5.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
