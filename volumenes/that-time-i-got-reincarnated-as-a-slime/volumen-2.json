@@ -2,47 +2,39 @@
   "volumen_2": {
     "titulo": "Tensei Shitara Slime Datta Ken Volumen 2",
     "imagen": "imagenes/volumen-2/portada.jpg",
-    "capitulos": [
-      {
+    "capitulos": {
+      "capitulo_1": {
         "titulo": "El inicio del caos",
-        "imagen": "imagenes/volumen-2/capitulo-1.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-1.jpg"
       },
-      {
+      "capitulo_2": {
         "titulo": "Evoluciones y choques",
-        "imagen": "imagenes/volumen-2/capitulo-2.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-2.jpg"
       },
-      {
+      "capitulo_3": {
         "titulo": "El enviado y la reunión",
-        "imagen": "imagenes/volumen-2/capitulo-3.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-3.jpg"
       },
-      {
+      "capitulo_4": {
         "titulo": "Desconectando engranajes",
-        "imagen": "imagenes/volumen-2/capitulo-4.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-4.jpg"
       },
-      {
+      "capitulo_5": {
         "titulo": "El gran choque",
-        "imagen": "imagenes/volumen-2/capitulo-5.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-5.jpg"
       },
-      {
+      "capitulo_6": {
         "titulo": "El devorador de todo",
-        "imagen": "imagenes/volumen-2/capitulo-6.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-6.jpg"
       },
-      {
+      "capitulo_7": {
         "titulo": "La gran alianza del bosque de Jura",
-        "imagen": "imagenes/volumen-2/capitulo-7.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-7.jpg"
       },
-      {
+      "capitulo_8": {
         "titulo": "Un lugar relajante",
-        "imagen": "imagenes/volumen-2/capitulo-8.jpg",
-        "partes": []
+        "imagen": "imagenes/volumen-2/capitulo-8.jpg"
       }
-    ]
+    }
   }
 }
