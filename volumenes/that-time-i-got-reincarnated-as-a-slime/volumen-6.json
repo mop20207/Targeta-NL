@@ -4,43 +4,52 @@
     "imagen": "imagenes/volumen-6/portada.jpg",
     "prologo": {
       "titulo": "La Artimaña de los Demonios",
-      "imagen": "imagenes/volumen-6/prologo.jpg"
+      "imagen": "imagenes/volumen-6/prologo.jpg",
+      "contenido": ""
     },
     "capitulos": {
       "capitulo_1": {
         "titulo": "La Cumbre entre el Monstruo y el Hombre",
-        "imagen": "imagenes/volumen-6/capitulo-1.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-1.jpg",
+        "contenido": ""
       },
       "capitulo_2": {
         "titulo": "El Aviso de Ramiris",
-        "imagen": "imagenes/volumen-6/capitulo-2.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-2.jpg",
+        "contenido": ""
       },
       "capitulo_3": {
         "titulo": "Víspera de una Batalla",
-        "imagen": "imagenes/volumen-6/capitulo-3.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-3.jpg",
+        "contenido": ""
       },
       "capitulo_4": {
         "titulo": "En la Tierra del Destino",
-        "imagen": "imagenes/volumen-6/capitulo-4.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-4.jpg",
+        "contenido": ""
       },
       "capitulo_5": {
         "titulo": "Walpurgis",
-        "imagen": "imagenes/volumen-6/capitulo-5.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-5.jpg",
+        "contenido": ""
       },
       "capitulo_6": {
         "titulo": "El Octagrama",
-        "imagen": "imagenes/volumen-6/capitulo-6.jpg"
+        "imagen": "imagenes/volumen-6/capitulo-6.jpg",
+        "contenido": ""
       }
     },
     "intermedios": {
       "intermedio_1": {
         "titulo": "Los Reyes Demonio",
-        "imagen": "imagenes/volumen-6/intermedio-1.jpg"
+        "imagen": "imagenes/volumen-6/intermedio-1.jpg",
+        "contenido": ""
       }
     },
     "epilogo": {
       "titulo": "En Tierra Santa",
-      "imagen": "imagenes/volumen-6/epilogo.jpg"
+      "imagen": "imagenes/volumen-6/epilogo.jpg",
+      "contenido": ""
     }
   }
 }
