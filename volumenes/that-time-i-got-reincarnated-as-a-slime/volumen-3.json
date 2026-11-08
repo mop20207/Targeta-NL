@@ -27,6 +27,10 @@
         "titulo": "Charybdis",
         "imagen": "imagenes/volumen-3/capitulo-5.jpg"
       }
+    },
+    "epilogo": {
+      "titulo": "Una nueva Artimaña",
+      "imagen": "imagenes/volumen-3/epilogo.jpg"
     }
   }
 }
