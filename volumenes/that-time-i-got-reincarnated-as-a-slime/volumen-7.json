@@ -1,0 +1,38 @@
+{
+  "volumen_7": {
+    "titulo": "Tensei Shitara Slime Datta Ken Volumen 7",
+    "imagen": "imagenes/volumen-7/portada.jpg",
+    "capitulos": [
+      {
+        "titulo": "Demonios y Artimañas",
+        "imagen": "imagenes/volumen-7/capitulo-1.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Roles a Defender",
+        "imagen": "imagenes/volumen-7/capitulo-2.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "La Esperanza de la Santa",
+        "imagen": "imagenes/volumen-7/capitulo-3.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "El Segundo Enfrentamiento",
+        "imagen": "imagenes/volumen-7/capitulo-4.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Choque entre Santos y Demonios",
+        "imagen": "imagenes/volumen-7/capitulo-5.jpg",
+        "partes": []
+      },
+      {
+        "titulo": "Dioses y Reyes Demonio",
+        "imagen": "imagenes/volumen-7/capitulo-6.jpg",
+        "partes": []
+      }
+    ]
+  }
+}
