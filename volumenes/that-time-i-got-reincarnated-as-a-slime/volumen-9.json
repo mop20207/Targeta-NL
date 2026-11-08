@@ -27,6 +27,24 @@
         "titulo": "Después del Festival",
         "imagen": "imagenes/volumen-9/capitulo-5.jpg"
       }
+    },
+    "intermedios": {
+      "intermedio_1": {
+        "titulo": "Una Reunión Nocturna",
+        "imagen": "imagenes/volumen-9/intermedio-1.jpg"
+      },
+      "intermedio_2": {
+        "titulo": "Surge un Problema",
+        "imagen": "imagenes/volumen-9/intermedio-2.jpg"
+      },
+      "intermedio_3": {
+        "titulo": "Reunión a Media Noche",
+        "imagen": "imagenes/volumen-9/intermedio-3.jpg"
+      }
+    },
+    "epilogo": {
+      "titulo": "Flamas de Codicia",
+      "imagen": "imagenes/volumen-9/epilogo.jpg"
     }
   }
 }
