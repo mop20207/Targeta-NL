@@ -1381,6 +1381,31 @@
         "Construcción de reinos",
         "Aventura"
       ]
+    },
+    {
+      "id": "tondemo-skill-de-isekai-hourou-meshi",
+      "serie_id": "tondemo-skill-de-isekai-hourou-meshi",
+      "nombre": "Tondemo Skill de Isekai Hourou Meshi",
+      "titulo_original": "とんでもスキルで異世界放浪メシ",
+      "autor": "Ren Eguchi",
+      "ilustrador": "Masa",
+      "fecha_lanzamiento": "2016-11-25",
+      "editorial_original": "Overlap (Overlap Novels)",
+      "tipo": "Light Novel",
+      "idioma_original": "Japonés",
+      "pais_origen": "Japón",
+      "estado": "En publicación",
+      "imagen": "https://www.over-lap.co.jp/Contents/ProductImages/0/9784865541670_LL.jpg",
+      "lore": "Mukouda Tsuyoshi es un asalariado japonés que termina siendo convocado por error a un mundo de espadas y magia. Al descubrir que el reino que lo invocó tiene intenciones sospechosas, decide marcharse por su cuenta. Su única habilidad especial es «Supermercado en línea», que le permite conseguir productos de la Japón moderna. Aunque al principio parece poco útil para combatir, los alimentos que obtiene con ella producen efectos extraordinarios y atraen a poderosas criaturas que se convierten en sus compañeros de viaje.",
+      "valoracion": 7.6,
+      "genero": [
+        "Isekai",
+        "Fantasía",
+        "Aventura",
+        "Comedia",
+        "Cocina",
+        "Recuentos de la vida"
+      ]
     }
   ]
 }
