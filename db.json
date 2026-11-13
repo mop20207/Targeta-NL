@@ -1406,6 +1406,31 @@
         "Cocina",
         "Recuentos de la vida"
       ]
+    },
+    {
+      "id": "the-beginning-after-the-end",
+      "serie_id": "the-beginning-after-the-end",
+      "nombre": "The Beginning After the End",
+      "titulo_original": "The Beginning After the End",
+      "autor": "TurtleMe",
+      "ilustrador": "",
+      "fecha_lanzamiento": "",
+      "editorial_original": "",
+      "tipo": "Novela Web",
+      "idioma_original": "Inglés",
+      "pais_origen": "",
+      "estado": "Desconocido",
+      "imagen": "",
+      "lore": "El Rey Grey posee una fuerza, riqueza y prestigio incomparables en un mundo gobernado por la habilidad marcial. Sin embargo, detrás de su poder vive un hombre solitario y sin propósito. Reencarnado en un mundo nuevo lleno de magia y monstruos, recibe una segunda oportunidad para vivir. Pero corregir los errores de su pasado no será su único desafío: una corriente subterránea amenaza con destruir la paz y la prosperidad del nuevo mundo, cuestionando su papel y la razón por la que ha renacido.",
+      "valoracion": 0,
+      "genero": [
+        "Acción",
+        "Reencarnación",
+        "Drama",
+        "Fantasía",
+        "Aventura",
+        "Romance"
+      ]
     }
   ]
 }
