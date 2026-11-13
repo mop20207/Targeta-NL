@@ -1065,6 +1065,24 @@
   "valoracion": 7.7,
   "genero": ["Fantasía", "Magia", "Misterio", "Viajes en el tiempo"]
 }
-
+,
+  {
+    "id": "release-that-witch",
+    "serie_id": "release-that-witch",
+    "nombre": "Release That Witch",
+    "titulo_original": "放开那个女巫",
+    "autor": "Er Mu",
+    "ilustrador": "no tiene",
+    "fecha_lanzamiento": "2016",
+    "editorial_original": "Qidian",
+    "tipo": "Web Novel",
+    "idioma_original": "Chino",
+    "pais_origen": "China",
+    "estado": "Finalizada",
+    "imagen": "https://book-pic.webnovel.com/bookcover/7931338406001705?imageId=1547692288593&imageMogr2/thumbnail/600x",
+    "lore": "Cheng Yan muere en su mundo y despierta en un mundo de fantasía medieval dentro del cuerpo de Roland Wimbledon, un príncipe al que le han asignado una ciudad fronteriza pobre y atrasada. Al descubrir que las brujas existen y son perseguidas por la Iglesia, Roland decide protegerlas y aprovechar sus habilidades junto con sus conocimientos modernos para desarrollar la ciudad, impulsar nuevas tecnologías y enfrentarse a las amenazas políticas y sobrenaturales que ponen en peligro al reino.",
+    "valoracion": 8.5,
+    "genero": ["Fantasía", "Isekai", "Magia", "Construcción de reinos", "Aventura"]
+  }
   ]
 }
