@@ -1454,6 +1454,29 @@
         "Vida cotidiana",
         "Aventura"
       ]
+    },
+    {
+      "id": "gate",
+      "serie_id": "gate",
+      "nombre": "GATE: Thus the JSDF Fought There!",
+      "titulo_original": "ゲート 自衛隊 彼の地にて、斯く戦えり",
+      "autor": "Takumi Yanai",
+      "ilustrador": "Kurojishi",
+      "fecha_lanzamiento": "2013-01-06",
+      "editorial_original": "AlphaPolis",
+      "tipo": "Light Novel",
+      "idioma_original": "Japonés",
+      "pais_origen": "Japón",
+      "estado": "Finalizada",
+      "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/gate/imagenes/gate-vol-01-pagina-001.jpg",
+      "lore": "Una misteriosa Puerta aparece en el distrito de Ginza, en Tokio, y de ella emerge un ejército de criaturas y soldados de un mundo fantástico que ataca a la población. Tras repeler la invasión, las Fuerzas de Autodefensa de Japón cruzan la Puerta y establecen una base en el otro mundo. El teniente Youji Itami y su equipo deberán explorar ese territorio, afrontar amenazas y relacionarse con sus habitantes, mientras se entrelazan los conflictos militares, políticos y culturales de ambos mundos.",
+      "valoracion": 0,
+      "genero": [
+        "Militar",
+        "Fantasía",
+        "Acción",
+        "Aventura"
+      ]
     }
   ]
 }
