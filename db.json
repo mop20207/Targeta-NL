@@ -1477,6 +1477,29 @@
         "Acción",
         "Aventura"
       ]
+    },
+    {
+      "id": "spice-and-wolf",
+      "serie_id": "spice-and-wolf",
+      "nombre": "Spice & Wolf",
+      "titulo_original": "狼と香辛料 (Ookami to Koushinryou)",
+      "autor": "Isuna Hasekura",
+      "ilustrador": "Jyuu Ayakura",
+      "fecha_lanzamiento": "2006-02-10",
+      "editorial_original": "ASCII Media Works (Dengeki Bunko)",
+      "tipo": "Light Novel",
+      "idioma_original": "Japonés",
+      "pais_origen": "Japón",
+      "estado": "Finalizada",
+      "imagen": "https://raw.githubusercontent.com/mop20207/Targeta-NL/main/volumenes/spice-and-wolf/imagenes/vol-01/portada.jpg",
+      "lore": "La historia sigue a Kraft Lawrence, un comerciante ambulante que recorre pueblos y ciudades buscando oportunidades de negocio. Su viaje cambia cuando conoce a Holo, una antigua deidad loba vinculada a las cosechas, que desea regresar a su tierra natal. Juntos emprenden un recorrido en el que se mezclan el comercio, la economía, los viajes y el desarrollo de su relación.",
+      "valoracion": 0,
+      "genero": [
+        "Fantasía",
+        "Aventura",
+        "Romance",
+        "Drama"
+      ]
     }
   ]
 }
